@@ -1,10 +1,13 @@
-# ANRE Trainer
+# ANRE Trainer Fork
 
-Unified Android trainer for ANRE electrician exam preparation.
+Unified Android trainer for ANRE electrician exam preparation, with imported Grade II banks.
 
 - Grad I: 414 questions
-- Grad II: 408 questions
-- Combined: 822 questions
+- Grad II official: 408 questions
+- Grad II imported: 1753 questions (541 Chestionare ANRE + 577 Scientia + 635 Old)
+- Grad II total: 2161 questions
+- Combined: 2575 questions in 4 banks (ANRE oficial, Grad II · Chestionare ANRE, Grad II · Scientia, Grad II · Old)
+- 29 legacy multi-correct questions are excluded from practice until clarified
 - Offline WebView application
 - Local progress/statistics
 

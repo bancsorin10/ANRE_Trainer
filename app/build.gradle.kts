@@ -5,11 +5,11 @@ android {
     namespace = "ro.anre.trainer"
     compileSdk = 35
     defaultConfig {
-        applicationId = "ro.anre.trainer"
+        applicationId = "ro.anre.trainer.fork"
         minSdk = 24
         targetSdk = 35
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 2
+        versionName = "1.1-fork"
     }
     buildTypes {
         release {

@@ -1,0 +1,1485 @@
+{
+ "source": "chestionare-anre.ro",
+ "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+ "category": "legislatie",
+ "grade": "II",
+ "pool_size_reported": null,
+ "collected": 92,
+ "fetches": 31,
+ "fetched_at": "2026-11-19T22:31:58.283918+00:00",
+ "notes": "Questions and correct answers as shown on the public learning page; explanations are paywalled (not included).",
+ "questions": [
+  {
+   "id": 1,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18481",
+   "question": "ANRE - Autoritatea Naţională de Reglementare în domeniul Energiei este abilitată prin lege să constate şi să sancţioneze:",
+   "variants": [
+    "sistarea justificată a alimentării cu energie electrică a clienţilor.",
+    "nerespectarea normelor tehnice emise de către ANRE.",
+    "încălcarea prevederilor legislaţiei muncii."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 2,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18468",
+   "question": "ANRE este:",
+   "variants": [
+    "Agenţie naţională de reglementare în domeniul energiei termice.",
+    "Autoritatea Naţională de Reglementare în domeniul Energiei.",
+    "Autoritatea Naţionala de Reglementare pentru Serviciile Publice de Gospodărie Comunală."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 3,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18516",
+   "question": "ANRE poate aplica sancţiuni contravenţionale unui electrician autorizat pentru:",
+   "variants": [
+    "Desfăşurarea activităţii în baza unei adeverințe (legitimații) de electrician autorizat emisă în urmă cu 4 ani.",
+    "Proiectarea instalaţiei electrice a unei locuinţe în baza unei autorizaţii de tip II A.",
+    "Desfăşurarea de activităţi fără contracte legale, în vigoare (contract de muncă individual semnat cu un angajator sau contract de prestări servicii, în cazul în care este persoană fizică autorizată în condițiile legii)."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 4,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18478",
+   "question": "ANRE poate aplica sancţiuni contravenţionale în cazul în care un electrician:",
+   "variants": [
+    "autorizat gradul 1, execută în calitate de persoană fizică autorizată o instalație electrică de joasă tensiune având o putere totală instalată de 9 kW.",
+    "deține adeverință de electrician autorizat și comite o faptă prevăzută în Regulamentul de autorizare ca fiind permisă.",
+    "deține adeverință de electrician autorizat și desfăşoară activităţi de realizare de instalații electrice într-o formă care nu este prevăzută în regulamentul de autorizare."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 5,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18570",
+   "question": "ANRE poate suspenda Atestatul acordat unui operator economic care proiectează, execută şi verifică instalaţii electrice dacă:",
+   "variants": [
+    "ANRE nu are competenţa de a retrage Atestatele emise",
+    "operatorul economic nu îndeplineşte criteriile de bonitate financiară corespunzătoare procedurii aplicabile",
+    "Operatorul economic a executat lucrări fără să aibă, în proprietate sau în folosinţă, conform prevederilor Regulamentului, dotarea tehnică minimală corespunzătoare tipului de atestat deţinut"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 6,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18467",
+   "question": "Accesul la reţeaua electrică de interes public este definit ca fiind:",
+   "variants": [
+    "Obligaţia unor persoane fizice sau juridice de a consuma energie electrică achiziţionată de pe piaţa de energie electrică în regim concurenţial.",
+    "Obligaţia unor persoane fizice sau juridice de a se racorda, in condiţiile legii, la reţelele electrice de transport sau de distribuţie.",
+    "Ansamblul de reguli prin care un terţ îşi exercită dreptul de a se racorda și de a utiliza reţelele electrice de transport şi de distribuţie, în condiţiile legii."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 7,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18499",
+   "question": "Actualizarea avizului tehnic de racordare atunci când se produce schimbarea titularului locului de producere sau de consum",
+   "variants": [
+    "este obligatorie.",
+    "este obligatorie numai dacă se modifică puterea aprobată anterior prin avizul tehnic de racordare.",
+    "nu este obligatorie."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 8,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18469",
+   "question": "Asupra terenurilor aflate in proprietatea terţilor, cuprinse in zonele de protecţie si de siguranţa ale capacităţilor energetice, se stabileşte pentru deţinătorul capacităţilor energetice:",
+   "variants": [
+    "drept de proprietate.",
+    "drept de utilizare gratuită.",
+    "drept de servitute legală."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 9,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18514",
+   "question": "Autoritatea Naţională de Reglementare în domeniul Energiei analizează şi soluţionează eventualele contestaţii cu privire la:",
+   "variants": [
+    "calitatea execuţiei instalaţiilor de racordare.",
+    "avizele tehnice de racordare.",
+    "calitatea execuţiei instalaţiilor interioare ale clădirilor civile."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 10,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18480",
+   "question": "Autorizarea electricienilor în domeniul instalaţiilor electrice, respectiv a verificatorilor de proiecte şi a experţilor tehnici de calitate şi extrajudiciari în domeniul instalaţiilor electrice tehnologice se realizează",
+   "variants": [
+    "numai conform reglementărilor emise de ANRE.",
+    "de către operatorul de distribuţie.",
+    "de către Ministerul învăţământului."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 11,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18520",
+   "question": "Autorizarea pentru proiectare de instalaţii electrice este o autorizare de tip",
+   "variants": [
+    "C.",
+    "B.",
+    "A."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 12,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18518",
+   "question": "Autorizarea unui electrician se realizează în urma:",
+   "variants": [
+    "promovării unui examen de autorizare.",
+    "promovării unui concurs de autorizare, cu număr limitat de locuri.",
+    "unui interviu în faţa unei comisii ANRE."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 13,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18554",
+   "question": "Avizul tehnic de racordare constituie:",
+   "variants": [
+    "oferta operatorului de reţea la cererea de racordare a solicitantului.",
+    "acceptul operatorului de reţea pentru utilizarea reţelei în anumite condiţii.",
+    "angajamentul operatorului de reţea de a realiza instalaţia de racordare a utilizatorului."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 14,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18511",
+   "question": "Avizul tehnic de racordare emis îşi încetează valabilitatea:",
+   "variants": [
+    "în termen de 12 luni de la emitere, dacă nu a fost încheiat contractul de racordare.",
+    "în termen de 6 luni de la emitere, dacă nu a fost încheiat contractul de racordare.",
+    "la încheierea contractului de racordare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 15,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18555",
+   "question": "Avizul tehnic de racordare este un aviz scris valabil:",
+   "variants": [
+    "pentru orice titular al locului de producere/consum respectiv.",
+    "pe o perioadă de timp nelimitată.",
+    "numai pentru un anumit titular al locului de producere/consum."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 16,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18544",
+   "question": "Avizul tehnic de racordare se emite de către:",
+   "variants": [
+    "operatorul de reţea la reţeaua căruia se racordează instalaţiile utilizatorului, conform soluţiei de racordare stabilite prin fişa sau studiul de solutie",
+    "operatorul de reţea la care a fost depusă cererea de racordare, chiar dacă opţiunea scrisă a utilizatorului este pentru o variantă de soluţie de racordare la reţeaua electrică deţinută de un alt operator de reţea",
+    "operatorul de reţea care a elaborat fişa sau studiul de solutie, chiar dacă opţiunea scrisă a utilizatorului este pentru o variantă de soluţie de racordare la reţeaua eectrică deţinută de un alt operator de reţea"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 17,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18556",
+   "question": "Cererea pentru racordare la reţea trebuie să fie în mod obligatoriu semnată de:",
+   "variants": [
+    "operatorul de reţea.",
+    "utilizator sau de împuternicitul legal al utilizatorului.",
+    "furnizor."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 18,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18557",
+   "question": "Cererea pentru racordare la reţea şi documentaţia anexată acesteia:",
+   "variants": [
+    "se depun numai la registratura operatorului de reţea.",
+    "se trimit obligatoriu prin poştă.",
+    "se pot depune direct la centrele teritoriale de relaţii cu clienţii organizate de operatorul de reţea."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 19,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18543",
+   "question": "Cererile de racordare pentru locuri de producere cu puteri instalate de până la 50 MW inclusiv şi cele pentru locuri de consum cu puteri maxim simultan absorbite de până la 50 MW inclusiv, se adresează de către solicitanţi:",
+   "variants": [
+    "obligatoriu operatorului de distribuţie concesionar din zona respectivă.",
+    "operatorului de transport şi de sistem.",
+    "unui operator de distribuţie care deţine în apropierea locului de producere sau de consum o reţea electrică de distribuţie."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 20,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18532",
+   "question": "Client final este:",
+   "variants": [
+    "orice client ce cumpără energie electrică de la un trader de energie electrică",
+    "orice client ce cumpără energie electrică de la un producător",
+    "orice persoană fizică sau juridică ce cumpără energie electrică pentru consum propriu"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 21,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18471",
+   "question": "Clientul casnic este clientul care:",
+   "variants": [
+    "Utilizează energie electrică pentru funcţionarea receptoarelor electrocasnice din propria locuinţa, precum si pentru realizarea de activităţi comerciale sau prestarea de servicii.",
+    "Utilizează energie electrică în exclusivitate pentru iluminatul artificial din propria locuinţă şi din afara acesteia, fiind racordat la o reţea electrică monofazată de joasă tensiune.",
+    "Cumpără energie electrică pentru propriul consum casnic, excluzând consumul pentru activităţi comerciale sau profesionale."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 22,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18568",
+   "question": "Clientul vulnerabil",
+   "variants": [
+    "are dreptul să beneficieze de eşalonarea la plată a facturii, la cerere, pe o perioadă de maximum 3 luni",
+    "are dreptul să beneficieze de eşalonarea la plată a facturii, la cerere, pe o perioadă de minimum 3 luni",
+    "nu are dreptul să beneficieze de eşalonarea la plată a facturii"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 23,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18563",
+   "question": "Clienţii casnici de energie electrică:",
+   "variants": [
+    "pot să opteze pentru orice modalitate de plată pe care furnizorul o pune la dispoziţie",
+    "pot impune furnizorului orice modalitate de plată, chiar dacă nu este pusă la dispoziţie de către acesta",
+    "sunt obligaţi să achite facturile pentru energia electrică la una din casieriile furnizorului"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 24,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18534",
+   "question": "Codul tehnic al reţelelor electrice de distribuţie (Codul RED) este administrat de:",
+   "variants": [
+    "CN TRANSELECTRICA SA.",
+    "ANRE - Autoritatea Naţională de Reglementare în domeniul Energiei.",
+    "SC ELECTRICA SA, în calitate de elaborator."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 25,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18492",
+   "question": "Codul tehnic al reţelelor electrice de distribuţie reglementează activitatea operatorilor de distribuţie:",
+   "variants": [
+    "la care acţionar majoritar nu este statul român.",
+    "la care acţionar principal este statul român.",
+    "tuturor operatorilor de distribuţie, indiferent de acţionarul majoritar."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 26,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18533",
+   "question": "Conform prevederilor referitoare la energia electrică din Legea nr. 123/2012 , noţiunile de \"client final\" şi \"consumator\" sunt:",
+   "variants": [
+    "echivalente.",
+    "echivalente numai în cazul consumatorilor casnici.",
+    "diferite."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 27,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18489",
+   "question": "Constituie contravenţie:",
+   "variants": [
+    "modificarea fără drept a componentelor instalaţiilor energetice.",
+    "refuzul clienţilor finali de a permite accesul la grupurile de măsurare.",
+    "sustragerea de energie electrică."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 28,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18490",
+   "question": "Constituie infracţiune:",
+   "variants": [
+    "nerespectarea reglementărilor emise de ANRE.",
+    "modificarea fără drept a componentelor instalaţiilor energetice.",
+    "executarea de săpături sau lucrări de orice fel in zonele de protecţie a instalaţiilor, fără consimţământul prealabil al proprietarului acestora."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 29,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18491",
+   "question": "Criteriile de promovare a energiei electrice produse în centrale electrice de cogenerare de înaltă eficiență au în vedere:",
+   "variants": [
+    "Promovarea utilizării surselor regenerabile.",
+    "Promovarea utilizării eficiente a combustibililor.",
+    "Realizarea unui randament global anual de minimum 50% în cazul unităţilor de cogenerare cu puteri electrice instalate de peste 25 MW."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 30,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18550",
+   "question": "Căminele studenţeşti se încadrează în categoria:",
+   "variants": [
+    "clienţilor casnici, dar numai dacă au o putere aprobată sub 50 kW.",
+    "clienţilor noncasnici.",
+    "clienţilor casnici."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 31,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18558",
+   "question": "Dacă se solicită avizul tehnic de racordare pentru o organizare de de şantier, documentaţia anexată cererii va cuprinde în mod obligatoriu şi:",
+   "variants": [
+    "contractul încheiat cu un furnizor de energie electrică",
+    "autorizaţia de construire a obiectivului pentru care se organizează şantierul, în termen de valabilitate, in copie;",
+    "certificatul de urbanism al obiectivului pentru care se organizează şantierul, în termen de valabilitate, in copie;"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 32,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18542",
+   "question": "După depunerea documentaţiei complete de către utilizator, în situaţia în care soluţia de racordare se stabileşte prin fişă de soluţie, operatorul de reţea are obligaţia să transmită solicitantului avizul tehnic de racordare în maximum:",
+   "variants": [
+    "30 zile calendaristice în cazul racordării la joasă tensiune.",
+    "10 zile calendaristice în cazul racordării la joasă tensiune.",
+    "20 zile calendaristice în cazul racordării la joasă tensiune."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 33,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18519",
+   "question": "Electricianul autorizat pentru gradul II, tip A+B are următoarele competenţe:",
+   "variants": [
+    "De a proiecta şi executa instalaţii electrice cu orice putere instalată tehnic realizabilă şi la o tensiune nominală mai mică de 1 kV.",
+    "De a proiecta şi executa instalaţii electrice cu putere instalată de cel mult 10 kW şi la o tensiune nominală mai mică de 1 kV.",
+    "De a proiecta şi executa instalaţii electrice cu orice putere instalată tehnic realizabilă şi la o tensiune nominală maximă de 20 kV."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 34,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18482",
+   "question": "Electricienii care doresc să solicite autorizarea, pentru a fi acceptaţi la examen trebuie să îndeplinească următoarele condiţii:",
+   "variants": [
+    "Să transmită la ANRE o cerere şi documentaţie anexată, din care să reiasă atât calificarea cât și experienţa profesională în domeniul instalaţiilor electrice.",
+    "Să transmită la ANRE o cerere şi documentaţie anexată, din care să reiasă doar experienţa practică în domeniul instalaţiilor electrice.",
+    "Să transmită la ANRE o cerere şi documentaţie anexată, din care să reiasă doar calificarea profesională."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 35,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18500",
+   "question": "Energia electrica tranzactionata pe piata de energie electrică se măsoară de către operatorii de măsurare, prin grupuri de măsurare, conform reglementărilor elaborate de:",
+   "variants": [
+    "ANRE - Autoritatea Naţională de Reglementare în domeniul Energiei",
+    "ANRSC - Autoritatea Naţională de Reglementare in domeniul Serviciilor Comunale",
+    "Ministerul de resort"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 36,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18521",
+   "question": "Este interzis electricianului autorizat:",
+   "variants": [
+    "Să proiecteze instalaţii electrice în cazul în care nu deţine o autorizaţie de tip A.",
+    "Să realizeze lucrări de instalaţii electrice în baza unor documentaţii de proiectare realizate de alţi electricieni autorizaţi.",
+    "Să proiecteze instalaţii electrice în cazul în care deţine doar autorizaţie de tip A."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 37,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18502",
+   "question": "Eventualele contestaţii ale avizelor tehnice de racordare se rezolvă de către:",
+   "variants": [
+    "organele ierarhice ale emitentului.",
+    "ANRE.",
+    "operatorul de distribuţie care a emis avizul."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 38,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18510",
+   "question": "Executarea sau folosirea de instalaţii clandestine în scopul racordării directe la reţea constituie:",
+   "variants": [
+    "contravenţie sau infracţiune, după caz",
+    "contravenţie",
+    "infracţiune"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 39,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18472",
+   "question": "Finanţarea lucrărilor de electrificare a localităţilor este obligaţia:",
+   "variants": [
+    "operatorului de distribuţie în executarea contractului de concesiune.",
+    "autorităţilor locale.",
+    "ministerului de resort."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 40,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18559",
+   "question": "Fişa de soluţie este elaborată de:",
+   "variants": [
+    "orice proiectant de specialitate (societate comercială atestată pentru activităţi de proiectare).",
+    "utilizatori.",
+    "operatorul de reţea."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 41,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18549",
+   "question": "Furnizarea energiei electrice către clientul final se realizează:",
+   "variants": [
+    "fără încheierea contractului de furnizare în situaţiile reglementate în mod distinct de către autoritatea competentă.",
+    "fără încheierea contractului de furnizare, pentru clienții casnici.",
+    "fără încheierea contractului de furnizare, pe bază de negocieri."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 42,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18547",
+   "question": "Furnizarea energiei electrice se desfăşoară",
+   "variants": [
+    "fără licență, de către operatori de distribuție neconcesionari către clienţii alimentaţi direct din reţelele electrice pe care aceştia le exploatează.",
+    "numai în baza unei licenţe pentru activitatea de furnizare a energiei electrice.",
+    "fără licență, de către producători, oricărui client final."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 43,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18567",
+   "question": "Furnizorul are dreptul să recalculeze consumul de energie electrică pentru o perioadă anterioară",
+   "variants": [
+    "numai în cazul clienților noncasnici mari",
+    "în cazul unei facturări eronate a consumului",
+    "numai în cazul în care contorul a fost defect"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 44,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18565",
+   "question": "Furnizorul are obligaţia să deţină o pagină de internet proprie care să pună la dispoziţia clientului un formular online pentru înregistrarea plângerilor şi care să conţină și infomații privind modalităţile de soluţionare",
+   "variants": [
+    "numai a neînţelegerilor apărute pe parcursul derulării contractului.",
+    "numai a neînţelegerilor precontractuale.",
+    "a neînţelegerilor precontractuale şi a celor apărute pe parcursul derulării contractului."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 45,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18495",
+   "question": "Furnizorul de energie electrică este îndreptăţit sa rezilieze contractul de furnizare a energiei electrice în caz de:",
+   "variants": [
+    "refuz al clientului final de a constitui garanţia solicitată de furnizor atunci când acesta constată acţiuni menite să denatureze în orice fel indicaţiile echipamentelor de măsurare .",
+    "racordare ilegală la reţeaua de distribuţie.",
+    "sustragerea de energie electrică constatată prin hotărâre judecătorească definitivă."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 46,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18473",
+   "question": "Furnizorul de energie electrică este îndreptăţit sã rezilieze contractul de furnizare a energiei electrice în caz de:",
+   "variants": [
+    "sustragerea de energie electrică constatată prin hotărâre judecătorească definitivă.",
+    "neplata abonamentului radio-tv.",
+    "depășirea cu 30 de zile a termenului scadent al unei facturi."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 47,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18474",
+   "question": "Furnizorul de energie electrică este îndreptăţit să rezilieze contractul de furnizare a energiei electrice numai în caz de:",
+   "variants": [
+    "consum de energie mai mare decât cel aferent puterii aprobate prin avizul tehnic de racordare.",
+    "sustragerea de energie electrică constatată prin hotărâre judecătorească definitivă, neplata facturilor sau în alte situaţii prevăzute de legislaţia în vigoare.",
+    "consumarea unei cantităţi de energie mai mare decât cea contractată."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 48,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18498",
+   "question": "Furnizorul este obligat să analizeze plângerea clientului referitoare la factura emisă, comunicată furnizorului în termen de 30 de zile de la data emiterii facturii,",
+   "variants": [
+    "numai dacă factura nu a fost achitată.",
+    "numai dacă factura a fost achitată.",
+    "indiferent dacă factura a fost sau nu achitată."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 49,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18546",
+   "question": "La încetarea perioadei de valabilitate a contractului de furnizare a energiei electrice, clientul final de energie electrică are dreptul să primească de la furnizor decontul final de regularizare",
+   "variants": [
+    "în termen de maximum 42 de zile de la încetarea contractului de furnizare a energiei electrice.",
+    "în termen de maximum 10 de zile de la încetarea contractului de furnizare a energiei electrice.",
+    "la încetarea contractului de furnizare a energiei electrice."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 50,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18552",
+   "question": "Neplata facturilor emise de către furnizor conform prevederilor contractului de furnizare a energiei electrice poate avea drept consecinţă:",
+   "variants": [
+    "obligaţia de a reface instalaţia de racordare.",
+    "întreruperea furnizării energiei electrice.",
+    "sancţiune prin amendă contravenţională."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 51,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18497",
+   "question": "Nerespectarea normelor tehnice emise de către ANRE constituie:",
+   "variants": [
+    "Contravenţie",
+    "Infracţiune",
+    "Abatere"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 52,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18515",
+   "question": "Neînţelegerile privind racordarea utilizatorilor la reţelele electrice de interes public, dintre operatorii de distribuţie şi solicitanţi, se soluţionează:",
+   "variants": [
+    "de autoritatea competentă conform reglementărilor în vigoare",
+    "întotdeauna pe cale amiabilă",
+    "întotdeauna în justiţie"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 53,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18470",
+   "question": "O persoană care deţinea în proprietate sau în folosinţă o reţea electrică de distribuţie proprie la data intrării în vigoare Legii nr.123/2012:",
+   "variants": [
+    "este obligată să asigure accesul la reţea, conform reglementărilor autorităţii competente.",
+    "nu are obligaţii privind asigurarea accesului la reţea.",
+    "este obligată să asigure accesul la reţea numai pentru producători de energie electrică din surse regenerabile."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 54,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18508",
+   "question": "Obţinerea avizului tehnic de racordare de către un utilizator:",
+   "variants": [
+    "nu este obligatorie pentru o durata mai mică de 6 luni",
+    "nu este obligatorie pentru o putere ceruta sub 100 kW",
+    "este obligatorie pentru orice loc de consum/producere nou"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 55,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18501",
+   "question": "Operatorul de distribuţie:",
+   "variants": [
+    "Exploatează, retehnologizează, reabilitează şi dezvolta reţelele electrice de iluminat public",
+    "Încasează contravaloarea energiei electrice furnizate",
+    "Exploatează, retehnologizează, reabilitează şi dezvolta reţelele electrice de distribuţie, cu respectarea reglementarilor tehnice in vigoare"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 56,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18538",
+   "question": "Pe lângă alte condiţii pe care trebuie să le îndeplinească utilizatorii, pentru a beneficia de prevederile standardului de performanţă pentru serviciul de distribuţie, trebuie ca:",
+   "variants": [
+    "să aibă contracte de furnizarea a energiei electrice încheiate cu operatorul de distribuţie.",
+    "prin regimul lor de funcţionare să nu introducă perturbaţii inacceptabile, conform normativelor în vigoare, care să afecteze funcţionarea RED sau alimentarea altor utilizatori RED din zonă",
+    "să contracteze serviciul de distribuţie direct cu operatorul de distribuţie."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 57,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18476",
+   "question": "Pe piaţa cu amănuntul, furnizorii vând energie electrică clienţilor finali prin:",
+   "variants": [
+    "Contracte bilaterale, la preţuri negociate sau stabilite prin oferte-tip.",
+    "Contracte bilaterale la preţuri reglementate.",
+    "Contracte bilaterale la tarife fixe."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 58,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18485",
+   "question": "Pentru a fi valabilă, adeverinţa de electrician autorizat",
+   "variants": [
+    "va fi prezentată ANRE pentru a fi vizată, la termenul prevăzut, după susținerea în prealabil a unui nou examen.",
+    "va fi prezentată ANRE pentru a fi vizată, la termenul prevăzut, după achitarea în prealabil a tarifului de vizare, diferit de tariful de acordare a respectivului tip şi grad de autorizare.",
+    "va fi prezentată ANRE pentru a fi vizată, la termenul prevăzut, după achitarea în prealabil a tariful de vizare, egal cu tariful de acordare a respectivului tip şi grad de autorizare."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 59,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18505",
+   "question": "Pentru protejarea reţelelor electrice de distribuţie, persoanelor fizice si juridice:",
+   "variants": [
+    "li se interzice să efectueze construcţii de orice fel în zona de siguranţă a reţelelor electrice de distribuţie, fără avizul de amplasament al operatorului de distribuţie",
+    "li se permite depozitarea de materiale pe culoarul de trecere și in zonele de protecţie si de siguranţa ale instalaţiilor, fără acordul operatorului de reţea, cu condiţia să fie proprietar al terenului",
+    "li se interzice să consume energie electrică prin instalaţii racordate direct la cele ale reţelei electrice de distribuţie"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 60,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18488",
+   "question": "Pot face obiectul unei concesiuni energetice:",
+   "variants": [
+    "bunurile utilizate în activitatea de furnizare a energiei electrice.",
+    "bunurile aflate în proprietatea oricărui operator economic.",
+    "bunurile proprietate publică sau privată a statului."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 61,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18562",
+   "question": "Prevederile contractuale întemeiate pe dispoziţii ale actelor normative se modifică",
+   "variants": [
+    "la data intrării în vigoare a modificării actelor normative respective fără îndeplinirea altor formalităţi",
+    "prin incheierea unui act adiţional",
+    "prin incheierea unui nou contract"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 62,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18537",
+   "question": "Prevederile standardului de performanţă pentru serviciul de distribuţie nu se aplică în situaţii de:",
+   "variants": [
+    "Forţă majoră.",
+    "Întrerupere accidentală a energiei electrice.",
+    "Evenimente accidentale determinate de angajaţii operatorului de distribuţie."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 63,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18536",
+   "question": "Printre obiectivele Codului tehnic al reţelelor electrice de distribuţie (Codul RED) se regăsesc:",
+   "variants": [
+    "Stabilirea responsabilităţilor şi obligaţiilor operatorilor de distribuţie şi ale tuturor utilizatorilor reţelelor electrice de distribuţie.",
+    "Stabilirea unui set de reguli şi norme în vederea asigurării iluminatului public.",
+    "Stabilirea unui set de reguli şi norme în vederea asigurării accesului utilizatorilor la reţelele electrice de transport."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 64,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18506",
+   "question": "Printre obiectivele de baza ale Legii nr. 123/2012 se regăsesc:",
+   "variants": [
+    "Promovarea utilizării gazelor naturale pentru producerea energiei electrice.",
+    "promovarea utilizării surselor noi şi regenerabile de energie.",
+    "Determinarea soluţiilor de racordare a utilizatorilor la reţelele electrice de interes public."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 65,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18525",
+   "question": "Regulamentul de autorizare a electricienilor defineşte următoarele tipuri de autorizări:",
+   "variants": [
+    "De tip A sau B pentru proiectare şi respectiv executare.",
+    "De tip E pentru execuţie.",
+    "Nu sunt definite tipuri de autorizare, ci doar grade de autorizare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 66,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18569",
+   "question": "Regulamentul pentru atestarea operatorilor economici care proiectează, execută şi verifică instalaţii electrice din sistemul electroenergetic este aprobat de către:",
+   "variants": [
+    "Guvernul României.",
+    "Ministerul de resort.",
+    "ANRE."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 67,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18507",
+   "question": "Reţea electrică de interes public este o reţea electrică la care sunt racordaţi cel puţin:",
+   "variants": [
+    "3 utilizatori.",
+    "un utilizator.",
+    "2 utilizatori."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 68,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18526",
+   "question": "Sancţiunile contravenţionale aplicate de ANRE electricienilor autorizaţi pot fi asociate cu:",
+   "variants": [
+    "Retragerea autorizării acordate pe o perioadă de până la doi ani.",
+    "Avertizarea în scris cu retragerea autorizării acordate la prima abatere constatată.",
+    "Retragerea autorizării acordate."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 69,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18560",
+   "question": "Soluţia de racordare se stabileşte printr-o fişă de soluţie pentru:",
+   "variants": [
+    "locurile de consum individuale ale utilizatorilor de tip clienţi casnici, indiferent de puterea solicitată.",
+    "utilizatorii de tip distribuitori, indiferent de tensiunea reţelei la care se racordează.",
+    "locurile de consum şi/sau de producere care se racordează la reţele electrice având tensiunea nominală de 110 kV sau mai mare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 70,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18561",
+   "question": "Soluţia de racordare se stabileşte printr-un studiu de soluţie pentru:",
+   "variants": [
+    "utilizatorii cu o putere de peste 25 kVA.",
+    "utilizatorii de tip distribuitori, indiferent de tensiunea reţelei la care se racordează.",
+    "locurile de consum individuale ale utilizatorilor de tip clienţi casnici, indiferent de puterea solicitată."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 71,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18493",
+   "question": "Standardul de performanţă pentru serviciul de distribuţie a energiei electrice stabileşte indicatori de performanţă privind:",
+   "variants": [
+    "Debranşarea consumatorilor rău-platnici de la relele electrice de distribuţie",
+    "Evenimentele accidentale produse de terţi asupra reţelelor electrice din patrimoniul public",
+    "Întreruperile programate, pentru executarea lucrărilor de dezvoltare, retehnologizare şi mentenanţă"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 72,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18540",
+   "question": "Standardul de performanţă pentru serviciul de distribuţie a energiei electrice stabileşte indicatorii de performanţă privind:",
+   "variants": [
+    "debranşarea consumatorilor rău-platnici de la relele electrice de distribuţie.",
+    "continuitatea alimentării cu energie electrică a utilizatorilor.",
+    "evenimentele accidentale produse de terţi asupra reţelelor electrice din patrimoniul public."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 73,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18509",
+   "question": "Sursele staţionare de energie electrică în curent continuu, dacă nu sunt racordate prin invertoare la SEN, se supun dispoziţiilor Legii nr. 123/2012?",
+   "variants": [
+    "Da, doar sub aspectul stabilirii preţului de vânzare e energiei electrice produse",
+    "Da",
+    "Nu"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 74,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18477",
+   "question": "Tarifele de racordare la reţea sunt:",
+   "variants": [
+    "stabilite de operatorii de reţea.",
+    "negociate cu solicitantul.",
+    "reglementate de ANRE."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 75,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18486",
+   "question": "Termenul de vizare a adeverinţei de electrician autorizat, de la data emiterii documentului sau, după caz, de la data ultimei vizări, este de",
+   "variants": [
+    "5 ani.",
+    "4 ani.",
+    "3 ani."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 76,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18487",
+   "question": "Trecerea la un grad de autorizare superior se poate face:",
+   "variants": [
+    "prin vizarea la termen de către ANRE a adeverinței de electrician autorizat.",
+    "după 5 ani de experienţă în baza gradului de autorizare deţinut.",
+    "pe bază de examen."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 77,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18527",
+   "question": "Un electrician autorizat care execută lucrări de instalaţii electrice:",
+   "variants": [
+    "Are obligaţia de a participa la recepţia şi la punerea în funcţiune a instalaţiei electrice de utilizare proiectată/ executată, chiar dacă nu i se solicită acest lucru de către beneficiarul sau operatorul de reţea la care urmează a se racorda instalaţia electrică de utilizare;",
+    "Are obligaţia de a respecta proiectul în baza căruia execută instalaţia electrică",
+    "Are dreptul de a racorda la SEN noi puncte de consum, urmând a solicita acordul operatorului de reţea după recepţia la terminarea lucrărilor"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 78,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18528",
+   "question": "Una dintre obligaţiile electricianului autorizat care execută lucrări de instalaţii electrice este:",
+   "variants": [
+    "De a racorda la SEN noi puncte de consum, urmând a solicita acordul operatorului de reţea după recepţia la terminarea lucrărilor",
+    "De a participa la recepţia şi la punerea în funcţiune a instalaţiei electrice de utilizare proiectată/ executată, în cazul în care i se solicită acest lucru de către beneficiarul sau operatorul de reţea la care urmează a se racorda instalaţia electrică de utilizare",
+    "Să respecte proiectele de execuţie a lucrărilor de instalaţii electrice doar dacă sunt întocmite de el"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 79,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18530",
+   "question": "Una dintre obligaţiile electricianului care deţine autorizaţie de executare instalaţii electrice este:",
+   "variants": [
+    "Să proiecteze instalaţii electrice doar conform gradului si tipului de autorizare, având în vedere că experienţa practică îi permite acest lucru",
+    "Să notifice ANRE data începerii execuţiei unei instalaţii electrice conform gradului si tipului de autorizare",
+    "Să execute instalaţii electrice doar conform gradului si tipului de autorizare şi să respecte prevederile din proiect"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 80,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18529",
+   "question": "Una dintre obligaţiile electricianului care deţine autorizaţie de tip A este:",
+   "variants": [
+    "Să proiecteze instalaţii electrice doar conform gradului si tipului de autorizare şi să respecte normele tehnice corespunzătoare tipurilor de instalaţii electrice proiectate",
+    "Să semneze documentaţii de proiectare chiar dacă nu sunt realizate de el, astfel încât proprietarul să poată demara cât mai repede execuţia instalaţiilor",
+    "Să execute sau să coordoneze execuţia instalaţiilor electrice de orice putere sau tensiune tehnic realizabilă"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 81,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18545",
+   "question": "În calitate de persoană fizică autorizată, electricianul autorizat gradul I poate executa instalaţii electrice interioare",
+   "variants": [
+    "având o putere electrică instalată de maximum 20 kW şi la o tensiune nominală mai mică de 1 kV, numai dacă deţine un atestat emis de ANRE",
+    "având o putere electrică instalată de maximum 10 kW şi la o tensiune nominală mai mică de 1 kV, numai dacă deţine un atestat emis de ANRE",
+    "având o putere electrică instalată de maximum 10 kW şi la o tensiune nominală mai mică de 1 kV, fără a deţine un atestat emis de ANRE"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 82,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18475",
+   "question": "În cazul constatării, conform prevederilor legale în vigoare, a unor acţiuni menite să sustragă energia electrică prin ocolirea echipamentelor de măsurare:",
+   "variants": [
+    "clientul final va fi sancţionat contravenţional.",
+    "furnizorul este îndreptăţit să solicite unui client final constituirea de garanţii financiare pentru o perioadă de consum echivalent de maximum un an.",
+    "clientului final i se va rezilia contractul de furnizare."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 83,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18503",
+   "question": "În cazul existenţei mai multor puncte de delimitare, se consideră un singur loc de consum şi o singură instalaţie de utilizare dacă:",
+   "variants": [
+    "dacă există un singur proprietar.",
+    "instalaţiile din aval aferente fiecărui punct de delimitare sunt legate electric între ele prin reţele ale utilizatorului.",
+    "instalaţiile din aval aferente fiecărui punct de delimitare sunt legate electric între ele prin reţele ale operatorului de distribuţie."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 84,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18548",
+   "question": "În cazul furnizării energiei electrice în baza unui contract încheiat pe piaţa concurenţială, întreruperea alimentării cu energie electrică pentru nerespectarea obligaţiilor contractuale de către beneficiar se face în cazul clienților noncasnici:",
+   "variants": [
+    "fără preaviz.",
+    "cu un preaviz de minim 5 zile.",
+    "cu un preaviz de cel puţin10 zile."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 85,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18512",
+   "question": "În cazul unui ansamblu de blocuri de locuinţe, grupurile de măsurare individuale se poziţionează",
+   "variants": [
+    "pe tablourile din apartamente.",
+    "centralizat, la parter sau pe palier.",
+    "centralizat, la limita zonei de proprietate asupra terenului, in exteriorul construcţiei."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 86,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18564",
+   "question": "În cazul unui refuz de constituire a garanţiilor conform Regulamentului de furnizare a energiei electrice la clienţii finali şi a procedurilor specifice",
+   "variants": [
+    "furnizorul are dreptul să solicite operatorului de distribuţie deconectarea clientului final de la reţea",
+    "se reziliază contractul de furnizare a energiei electrice",
+    "clientul final poate fi deconectat numai după o decizie a ANRE pentru cazul respectiv"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 87,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18483",
+   "question": "În cazul în care electricianul autorizat îşi pierde Legitimaţia/Adeverinţa de electrician autorizat, la solicitarea sa, ANRE poate emite un duplicat, dacă:",
+   "variants": [
+    "Legitimaţia/Adeverinţa de electrician autorizat este declarată nulă, într-un ziar local şi titularul achită tariful de autorizare aprobat.",
+    "Legitimaţia/Adeverinţa de electrician autorizat este declarată nulă, într-un ziar local şi titularul achită o penalitate în cuantum de 200 RON indiferent de gradul şi tipul de autorizare.",
+    "Legitimaţia/Adeverinţa de electrician autorizat este declarată nulă, într-un ziar local şi titularul achită un tarif de emitere a duplicatului, conform prevederilor din regulamentul de autorizare."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 88,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18496",
+   "question": "În conformitate cu prevederile legii nr.123/2012 sunt considerate surse regenerabile de energie:",
+   "variants": [
+    "Energia electrică obţinută prin arderea gazelor naturale.",
+    "energia eoliană.",
+    "Energia electrică obţinută prin arderea combustibililor fosili."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 89,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18524",
+   "question": "În vederea autorizării pentru ambele tipuri de autorizare (A şi B), electricienii:",
+   "variants": [
+    "Trebuie sa fi fost autorizaţi în prealabil în baza Ordinului MIC nr34 din 1999.",
+    "Trebuie să îndeplinească condiţiile de calificare si experienţă profesionale, cumulate, pentru fiecare tip şi susţin un singur examen.",
+    "Trebuie să îndeplinească condiţiile de calificare şi experienţă profesionale, cumulate, pentru fiecare tip de autorizare şi susţin examene separate pentru fiecare dintre aceste tipuri."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 90,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18484",
+   "question": "În vederea înscrierii la examenul de autorizare, electricianul trebuie să prezinte în documentaţia anexată cererii de autorizare ,,Detalii privind lucrările realizate\"; acest document este:",
+   "variants": [
+    "Un document obligatoriu, care trebuie întocmit corelat cu documentele ,,Experienţă profesională\" și ,,Pagina de informaţii anexate cererii de autorizare\".",
+    "Opţional (solicitantul decide dacă îl transmite sau nu).",
+    "Nerelevant."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 91,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18535",
+   "question": "Începând cu data de 1.01.2022, în PD, la JT, în condiții normale de exploatare, excluzând întreruperile, pe durata oricărui interval de timp de o săptămână, 95% din valorile efective, mediate pe o durată de 10 minute, ale tensiunii de alimentare, nu trebuie să aibă o abatere față de tensiunea nominală mai mare de",
+   "variants": [
+    "0.12",
+    "+5% / -10% .",
+    "0.05"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 92,
+   "category": "legislatie",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-legislatie/",
+   "site_qid": "18551",
+   "question": "Întreprinderile mici se încadrează în categoria",
+   "variants": [
+    "clienţilor noncasnici.",
+    "clienţilor noncasnici, dar numai dacă au o putere aprobată mai mare de 20 kW.",
+    "clienților casnici."
+   ],
+   "correct": "a",
+   "explanation": ""
+  }
+ ]
+}

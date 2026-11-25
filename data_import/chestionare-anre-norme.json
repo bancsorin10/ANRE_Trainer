@@ -1,0 +1,2957 @@
+{
+ "source": "chestionare-anre.ro",
+ "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+ "category": "norme",
+ "grade": "II",
+ "pool_size_reported": 200,
+ "collected": 184,
+ "fetches": 144,
+ "fetched_at": "2026-11-19T22:34:54.932962+00:00",
+ "notes": "Questions and correct answers as shown on the public learning page; explanations are paywalled (not included).",
+ "questions": [
+  {
+   "id": 1,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18768",
+   "question": "Abrevierea TN-C înseamnă",
+   "variants": [
+    "reţea cu punctul neutru al transformatorului legat la pământ şi conductor cu funcţii comune: de protecţie şi neutru;",
+    "reţea cu punctul neutru al transformatorului legat la pământ şi conductoare distincte pentru funcţiile de protecţie şi neutru",
+    "reţea cu punctul neutru al transformatorului legat la pământ şi masele legate la prize de pământ independente."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 2,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18769",
+   "question": "Abrevierea TN-S înseamnă",
+   "variants": [
+    "reţea cu punctul neutru al transformatorului legat la pământ şi conductor cu funcţii comune: de protecţie şi neutru;",
+    "reţea cu punctul neutru al transformatorului legat la pământ şi conductoare distincte pentru funcţiile de protecţie şi neutru;",
+    "reţea cu punctul neutru al transformatorului legat la pământ şi masele legate la prize de pământ independente."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 3,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18770",
+   "question": "Abrevierea TT înseamnă",
+   "variants": [
+    "reţea cu punctul neutru al transformatorului legat la pământ şi masele legate la prize de pământ independente.",
+    "reţea cu punctul neutru al transformatorului legat la pământ şi conductoare distincte pentru funcţiile de protecţie şi neutru.",
+    "reţea cu punctul neutru al transformatorului legat la pământ şi conductor cu funcţii comune: de protecţie şi neutru."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 4,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18578",
+   "question": "Alegerea caracteristicilor dispozitivelor de protecţie în cazul motoarelor se face ţinându-se seama:",
+   "variants": [
+    "de simultaneitatea sarcinilor în regim normal şi de pornire.",
+    "numai de sarcinile de pornire.",
+    "numai de sarcinile în regim normal de funcţionare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 5,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18654",
+   "question": "Alimentarea receptoarelor cu rol de securitate la incendiu trebuie asigurată:",
+   "variants": [
+    "întotdeauna din două surse de alimentare independente.",
+    "din una sau din două surse, conform opţiunii consumatorului.",
+    "dintr-o singură sursă de alimentare, în anumite cazuri."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 6,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18643",
+   "question": "Alimentarea transformatorului de sonerie sau soneriei de 220 (230) V se face:",
+   "variants": [
+    "numai direct din tabloul de distribuţie.",
+    "numai dintr-un circuit de prize.",
+    "dintr-un circuit de iluminat normal."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 7,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18597",
+   "question": "Amplasarea aparatelor cu ulei în interiorul tablourilor electrice:",
+   "variants": [
+    "este permisă, dar nu se recomandă.",
+    "este permisă în anumite condiţii.",
+    "este interzisă."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 8,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18655",
+   "question": "Amplasarea aparatelor, echipamentelor şi receptoarelor electrice în locuri în care ar putea fi expuse direct la apă, ulei, substanţe corozive, căldură sau şocuri mecanice:",
+   "variants": [
+    "este interzisă.",
+    "se admite.",
+    "se admite condiţionat."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 9,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18598",
+   "question": "Amplasarea instalaţiilor electrice de conexiuni şi distribuţie în interiorul încăperilor de cabluri:",
+   "variants": [
+    "este permisă întotdeauna.",
+    "este interzisă, cu unele excepţii.",
+    "nu există în prescripţiile energetice o prevedere în acest sens."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 10,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18616",
+   "question": "Amplasarea instalaţiilor electrice de joasă tensiune pe trasee comune cu acelea ale altor instalaţii sau utilaje care ar putea să le pericliteze în funcţionare normală sau în caz de avarie:",
+   "variants": [
+    "este opţiunea proiectantului.",
+    "trebuie evitată.",
+    "este interzisă."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 11,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18656",
+   "question": "Amplasarea instalaţiilor electrice sub conducte sau utilaje pe care poate să apară condens:",
+   "variants": [
+    "se admite întotdeauna.",
+    "este total interzisă.",
+    "se admite condiţionat."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 12,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18704",
+   "question": "Atunci când secţiunea conductorului neutru este cel puţin egală sau echivalentă cu a conductorului de fază,",
+   "variants": [
+    "nu este cazul să se prevadă o protecţie de supracurent pe conductorul neutru dacă rețeaua este de tip TT.",
+    "este necesar să se prevadă o protecţie de supracurent pe conductorul neutru dacă rețeaua este de tip TT.",
+    "nu este necesar să se prevadă o protecţie de supracurent pe conductorul neutru dacă rețeaua este de tip TN."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 13,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18733",
+   "question": "Atunci când un dispozitiv de protecție trebuie să deconecteze toate conductoarele active din circuitul corespondent,",
+   "variants": [
+    "conductorul neutru trebuie să fie deconectat înaintea conductoarelor de fază.",
+    "conductorul neutru trebuie să fie deconectat simultan cu conductoarele de fază.",
+    "conductorul neutru trebuie să nu fie deconectat înaintea conductoarelor de fază."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 14,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18694",
+   "question": "Atunci când un echipament nu conţine, prin construcţie, caracteristici corespunzătoare influenţelor externe ale locului (sau amplasamentului)",
+   "variants": [
+    "el nu poate fi utilizat în instalația electrică.",
+    "el poate fi totuşi utilizat cu condiţia ca instalația să fie montată în tub.",
+    "el poate fi totuşi utilizat cu condiţia să fie prevăzut cu o protecţie suplimentară corespunzătoare la realizarea instalaţiei."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 15,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18741",
+   "question": "Atunci când între priza de pământ a clădirii şi priza de pământ a postului de transformare (ce alimentează clădirea) este o distanță mai mică decât cea prevăzută de norme, se prevede o priză de pământ comună cu rezistenţă de cel mult",
+   "variants": [
+    "10 Ω.",
+    "1 Ω.",
+    "4 Ω."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 16,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18650",
+   "question": "Branşamentul electric este partea din instalaţia de distribuţie a energiei electrice cuprinsă între linia electrică şi:",
+   "variants": [
+    "punctul de delimitare între distribuitor şi consumator, reprezentat de bornele contorului.",
+    "firida de branşament.",
+    "coloana electrică."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 17,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18649",
+   "question": "Cablurile de energie la circuitele care alimentează receptoare de importanţă deosebită, se prevăd cu conductoare de cupru atunci când secţiunea conductoarelor (din aluminiu) ar rezulta mai mică de:",
+   "variants": [
+    "16mm2.",
+    "10mm2.",
+    "6mm2."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 18,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18600",
+   "question": "Circuitele de joasă tensiune de curent alternativ, de curent continuu sau de tensiuni diferite:",
+   "variants": [
+    "este interzisă gruparea pe acelaşi panou (dulap).",
+    "este admisă gruparea pe acelaşi panou (dulap), în anumite condiţii.",
+    "se recomandă să fie grupate pe acelaşi panou (dulap)."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 19,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18739",
+   "question": "Circuitele iluminatului normal",
+   "variants": [
+    "poate fi un circuit comun pentru iluminat normal și prize dacă puterea totală instalată pe circuit nu depășește3 kW pe un circuit monofazat şi 8 kW pe un circuit trifazat.",
+    "trebuie să fie distincte de circuitele de prize.",
+    "poate fi un circuit comun pentru iluminat normal și prize dacă puterea totală instalată pe circuit nu depășește 2 kW."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 20,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18750",
+   "question": "Compensarea locală (individuală) a energiei reactive consumate se prevede:",
+   "variants": [
+    "numai pentru pentru receptoare de putere foarte mică, dar aflate în număr foarte mare.",
+    "numai pentru receptoare inductive cu consum mare de putere reactivă şi cu funcţionare continuă.",
+    "pentru receptoare inductive cu consum mare de putere reactivă şi cu funcţionare continuă şi pentru cele de putere foarte mică, dar aflate în număr foarte mare."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 21,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18701",
+   "question": "Condensatoarele legate direct la bornele receptoarelor de joasă tensiune:",
+   "variants": [
+    "se prevăd cu dispozitive speciale de descărcare.",
+    "nu se prevăd cu dispozitive speciale de descărcare.",
+    "se prevăd cu dispozitive speciale de descărcare în anumite situații."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 22,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18611",
+   "question": "Conductoarele coloanelor electrice:",
+   "variants": [
+    "pot avea două secţiuni dacă lungimea coloanelor depăşeşte 10m.",
+    "trebuie să aibă aceeaşi secţiune pe toată lungimea lor.",
+    "pot avea două secţiuni dacă lungimea coloanelor depăşeşte 20m."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 23,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18723",
+   "question": "Conductoarele, barele, tuburile etc.",
+   "variants": [
+    "nu se pot dispune pe trasee comune cu traseele altor instalaţii.",
+    "se pot dispune pe trasee comune cu traseele altor instalaţii, fără alte condiții, dacă sunt în montaj aparent.",
+    "se pot dispune pe trasee comune cu traseele altor instalaţii cu îndeplinirea unor condiţii."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 24,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18612",
+   "question": "Conductorul de protecţie al coloanelor electrice individuale trebuie să fie legat la pământ:",
+   "variants": [
+    "doar dacă secţiunea conductorului nu are valoare constantă pe toată lungimea coloanei.",
+    "numai dacă secţiunea conductorului este mai mică de 10 mm2.",
+    "în cazul tablourile de distribuţie ale consumatorilor, la borna de legare la pământ de pe rama metalică a tablourilor."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 25,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18630",
+   "question": "Conductorul neutru (N) trebuie să aibă aceeaşi secţiune cu conductorul de fază:",
+   "variants": [
+    "în circuitele monofazate cu trei conductoare şi în circuitele polifazate indiferent de secţiunea conductoarelor de fază",
+    "în circuitele monofazate cu trei conductoare şi în circuitele polifazate ale căror conductoare de fază au secţiunea mai mică sau egală cu 25 mm2 Cu sau 35 mm2 Al",
+    "în circuitele monofazate cu două conductoare, indiferent de secţiunea conductoarelor."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 26,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18752",
+   "question": "Conductorul neutru (N):",
+   "variants": [
+    "este un conductor conectat electric la punctul neutru al sursei şi care poate contribui la distribuţia energiei electrice.",
+    "este un conductor conectat electric la punctul neutru al sursei şi care contribuie la protecția contra atingerilor indirecte.",
+    "este un conductor conectat electric la punctul neutru al sursei şi care contribuie la distribuţia energiei electrice și la protecția contra atingerilor indirecte."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 27,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18579",
+   "question": "Conductorul neutru se leagă la dulia lămpii:",
+   "variants": [
+    "la oricare dintre borne.",
+    "la borna conectată la partea filetată a duliei.",
+    "la borna din interior."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 28,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18627",
+   "question": "Conform I 7, parte activă a unei instalaţii este:",
+   "variants": [
+    "partea conductoare accesibilă a unui echipament electric sau a unui element de construcţie care poate fi atinsă, dar care în mod normal nu este sub tensiune.",
+    "conductorul PEN.",
+    "conductor sau parte conductoare destinată să fie pusă sub tensiune în funcţionare normală."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 29,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18628",
+   "question": "Conform I 7, parte conductoare accesibilă este:",
+   "variants": [
+    "partea izolantă accesibilă a unui element de construcţie care poate fi atinsă, şi care poate ajunge sub tensiune în caz de defect.",
+    "parte conductoare a unui echipament, care poate fi atinsă, şi care nu este în mod normal sub tensiune, dar care poate ajunge sub tensiune în cazul unui defect al izolaţiei de bază.",
+    "elemente conductoare din instalaţie aflate sub tensiune."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 30,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18719",
+   "question": "Conform I7/2011, conductor de protecţie (PE)",
+   "variants": [
+    "este un conductor prevăzut în linile aeriene de joasă tensiune pentru protecția împotriva loviturilor de trăsnet.",
+    "nu există conductor de protecție în instalațiile de joasă tensiune.",
+    "este un conductor prevăzut în scopuri de securitate, de exemplu protecţia împotriva şocurilor electrice."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 31,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18760",
+   "question": "Conform normativului I7 - 2011, prin ,,Pământ de referinţă\" se înțelege",
+   "variants": [
+    "o parte a Pământului considerată conductoare, al cărei potenţial electric prin convenţie este considerat egal cu zero, care este în afara zonei de influenţă a oricărei instalaţii de legare la pământ.",
+    "o parte a Pământului în contact electric cu o instalaţie de legare la pământ.",
+    "o parte a Pământului în contact electric cu o priză de pământ independentă."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 32,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18695",
+   "question": "Conform normativului I7-2011, alimentarea de securitate la un consumator este o alimentare prevăzută pentru menţinerea în funcţiune a echipamentelor şi instalaţiilor electrice importante pentru:",
+   "variants": [
+    "continuarea activității productive a instalațiilor tehnologice ale consumatorului respectiv.",
+    "sănătatea şi securitatea persoanelor şi animalelor domestice.",
+    "continuarea activității productive a principalelor instalații tehnologice ale consumatorului respectiv."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 33,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18689",
+   "question": "Conform normativului I7-2011, o coloană electrică este un circuit electric care:",
+   "variants": [
+    "alimentează un receptor de putere.",
+    "alimentează mai multe surse de iluminat.",
+    "alimentează mai multe tablouri de distribuţie."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 34,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18686",
+   "question": "Conform normativului I7-2011, protecţia de bază reprezintă:",
+   "variants": [
+    "protecţia care corespunde protecţiei împotriva atingerilor indirecte.",
+    "protecţia împotriva şocurilor electrice în caz de defect.",
+    "protecţia împotriva şocurilor electrice în absenţa defectului."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 35,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18693",
+   "question": "Conform normativului I7-2011, protecţia în caz de defect reprezintă:",
+   "variants": [
+    "o protecţie împotriva şocurilor electrice în condiţii de scurtcircuit.",
+    "protecţia care corespunde protecţiei împotriva atingerilor directe.",
+    "o protecţie împotriva şocurilor electrice în condiţii de defect simplu."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 36,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18708",
+   "question": "Conform prevederilor I 7 - 2011, alegerea secţiunii conductoarelor şi barelor din interiorul unui tablou este responsabilitatea:",
+   "variants": [
+    "proiectantului instalației electrice.",
+    "producătorului.",
+    "verificatorului de proiect."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 37,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18582",
+   "question": "Corpurile de iluminat care se instalează în depozite cu materiale combustibile, categoria BE 2, trebuie să fie întotdeauna:",
+   "variants": [
+    "prevăzute cu glob, respectiv cu difuzor.",
+    "echipate cu lămpi fluorescente.",
+    "prevăzute cu grătar protector."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 38,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18657",
+   "question": "Corpurile de iluminat echipate cu lămpi cu descărcări se prevăd în orice tip de încăpere cu:",
+   "variants": [
+    "grătar protector.",
+    "dispozitiv pentru îmbunătăţirea factorului de putere",
+    "difuzor."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 39,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18676",
+   "question": "Culoarea verde-galben pentru izolaţia conductoarelor și cablurilor se foloseşte pentru marcarea conductorului de:",
+   "variants": [
+    "de protecţie şi de neutru.",
+    "fază.",
+    "neutru de lucru."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 40,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18755",
+   "question": "Curent nominal este un",
+   "variants": [
+    "curent electric destinat a fi transportat de un circuit în funcţionarea în regim de scurtcircuit un timp limitat.",
+    "curent electric destinat a fi transportat de un circuit în funcţionarea normală pe timp nelimitat.",
+    "curent electric destinat a fi transportat de un circuit în funcţionarea în regim de defect simplu un timp limitat."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 41,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18754",
+   "question": "Curentul admisibil este",
+   "variants": [
+    "valoarea maximă a curentului electric care poate parcurge un conductor, un dispozitiv sau un aparat, fără ca temperatura sa în regim de scurtcircuit să fie superioară valorii specificate.",
+    "valoarea maximă a curentului electric care poate parcurge în permanenţă un conductor, un dispozitiv sau un aparat, fără ca temperatura sa în regim permanent, în condiţii date, să fie superioară valorii specificate.",
+    "valoarea maximă a curentului electric care poate parcurge în permanenţă un conductor, un dispozitiv sau un aparat, fără ca temperatura sa în condiţiile unei puneri la pământ, să fie superioară valorii specificate."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 42,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18692",
+   "question": "Curentul de defect este definit în I-7-2011 ca fiind:",
+   "variants": [
+    "un curent electric care circulă ca urmare a unui scurtcircuit trifazat.",
+    "un curent electric care circulă ca urmare a unui defect de izolaţie.",
+    "un curent electric care circulă ca urmare a unei suprasarcini."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 43,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18599",
+   "question": "Căile de curent ce nu se pot realiza în execuţie etanşă, în încăperi şi în spaţii din exterior cu mediu coroziv, pot fi realizate întotdeauna din:",
+   "variants": [
+    "Al.",
+    "Cu.",
+    "otel."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 44,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18751",
+   "question": "Dacă circuitul unei baterii de condensatoare se protejează cu întreruptor automat (disjunctor) acesta se reglează pentru protecție la suprasarcină la",
+   "variants": [
+    "curentul nominal al bateriei.",
+    "1,5 ori curentul nominal al bateriei.",
+    "1,2 ori curentul nominal al bateriei."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 45,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18709",
+   "question": "Dacă de la orice punct al unei instalaţii funcţiile de conductor neutru (N) şi de conductor de protecţie (PE) sunt asigurate prin conductoare separate,",
+   "variants": [
+    "este permis să se conecteze conductorul neutru la orice altă parte a instalaţiei legată la pământ, în anumite situații",
+    "este permis să se conecteze conductorul neutru la orice altă parte a instalaţiei legată la pământ",
+    "nu este permis să se conecteze conductorul neutru la orice altă parte a instalaţiei legată la pământ"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 46,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18726",
+   "question": "Dacă instalaţiile electrice sunt în distribuţie prefabricată în învelişuri metalice (cutii, carcase), aceste învelişuri",
+   "variants": [
+    "nu pot fi utilizate drept conductoare de protecţie.",
+    "pot fi utilizate drept conductoare de protecţie, în anumite condiții.",
+    "pot fi utilizate întotdeauna drept conductoare de protecţie."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 47,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18618",
+   "question": "Dacă protecţia motoarelor contra suprasarcinilor este realizată cu întrerupere, dispozitivul de comutaţie trebuie să întrerupă obligatoriu:",
+   "variants": [
+    "toate conductoarele de fază.",
+    "toate conductoarele active.",
+    "conductorul neutru."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 48,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18763",
+   "question": "Dacă tensiunea nominală a reţelei este sub 500V în tensiune alternativă şi tensiune continuă, \"Mediu neconductor\" reprezintă un spaţiu în care o persoană sau un animal care atinge o parte conductoare accesibilă care a devenit o parte activă periculoasă, este protejată printr-o impedanţă ridicată a mediului său (de exemplu pereţi sau pardoseli electroizolante) de cel puțin",
+   "variants": [
+    "30 kΩ.",
+    "20 kΩ.",
+    "50 kΩ."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 49,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18580",
+   "question": "Dimensionarea conductoarelor circuitelor de alimentare în cazul motoarelor se face ţinându-se seama:",
+   "variants": [
+    "numai de sarcinile de pornire.",
+    "de simultaneitatea sarcinilor în regim normal şi de pornire.",
+    "numai de sarcinile în regim normal de funcţionare."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 50,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18658",
+   "question": "Dispozitivele pentru suspendarea corpurilor de iluminat (cârlige, bolţuri, dibluri, etc) se aleg astfel încât să suporte fără deformări:",
+   "variants": [
+    "peste 5 kg.",
+    "de 3 ori greutatea corpului de iluminat utilizat.",
+    "de 5 ori greutatea corpului de iluminat, dar nu mai puţin de 10 kg."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 51,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18748",
+   "question": "Dispozitivul de protecție la suprasarcină a motoarelor trifazate nu va acţiona într-un interval de 2 ore la o valoare",
+   "variants": [
+    "de 1,05 ori curentul reglat.",
+    "de 1,25 ori curentul reglat.",
+    "de 1,20 ori curentul reglat."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 52,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18747",
+   "question": "Dispozitivul de protecție la suprasarcină a motoarelor trifazate va acţiona în 2 ore sau mai puţin la o valoare",
+   "variants": [
+    "egală cu a curentului reglat.",
+    "de 1,05 ori curentul reglat.",
+    "de 1,20 ori curentul reglat."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 53,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18736",
+   "question": "Dozele de derivaţie se instalează",
+   "variants": [
+    "numai pe suprafeţele verticale ale elementelor de construcţii.",
+    "pe sau în pardoseală, indiferent de tipul dozei.",
+    "cu prioritate pe suprafeţele verticale ale elementelor de construcţii."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 54,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18581",
+   "question": "Este admisă racordarea prin prize la circuitul de alimentare al receptoarelor electrice cu putere nominală până la:",
+   "variants": [
+    "0,5 kW.",
+    "1 kW.",
+    "2 kW."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 55,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18659",
+   "question": "Este obligatorie protecţia la suprasarcini pentru:",
+   "variants": [
+    "instalaţii de semnalizare.",
+    "instalaţii din încăperi din categoriile celor cu risc de incendiu sau de explozie.",
+    "instalaţii de comandă."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 56,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18679",
+   "question": "Fiecare conductor conectat la bara principală de legare la pământ la tabloul general:",
+   "variants": [
+    "nu este obligatoriu să poată fi deconectat individual.",
+    "trebuie să poată fi deconectat individual.",
+    "trebuie să poată fi deconectat uşor, fără utilizarea unei scule."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 57,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18761",
+   "question": "Folosirea mijloacelor individuale de protecţie electroizolante certificate",
+   "variants": [
+    "este o măsură tehnică pentru protecţia de bază (la atingere directă).",
+    "este o măsură tehnică principală pentru protecţia în caz de defect (protecţia la atingere indirectă).",
+    "este o măsură administrativă pentru protecţia de bază (la atingere directă)."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 58,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18668",
+   "question": "Instalarea conductoarelor electrice în tuburi sau ţevi pozate în pământ:",
+   "variants": [
+    "este admisă.",
+    "este interzisă.",
+    "este admisă numai pentru conductoare de cupru."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 59,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18707",
+   "question": "Instalarea prizelor în depozitele cu materiale combustibile categoria BE2",
+   "variants": [
+    "se admite condiţionat.",
+    "nu se admite.",
+    "se admite."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 60,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18765",
+   "question": "Izolarea dublă sau întărită a echipamentelor electrice – clasă II de izolaţie",
+   "variants": [
+    "este o măsură organizatorică pentru protecţia în caz de defect (protecţia la atingere indirectă).",
+    "este o măsură tehnică principală pentru protecţia în caz de defect (protecţia la atingere indirectă).",
+    "este o măsură tehnică suplimentară pentru protecţia în caz de defect (protecţia la atingere indirectă)."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 61,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18711",
+   "question": "Izolaţia dublă este",
+   "variants": [
+    "izolaţie realizată prin utilizarea împreună a unei izolaţii de bază şi a unei izolaţii suplimentare.",
+    "izolaţia părţilor active periculoase care asigură un grad de protecţie împotriva şocurilor electrice, echivalent celui unei izolaţii duble.",
+    "izolaţia independentă prevăzută suplimentar faţă de izolaţia de bază, pentru protecţie în caz de defect."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 62,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18712",
+   "question": "Izolaţia întărită este",
+   "variants": [
+    "izolaţia independentă prevăzută suplimentar faţă de izolaţia de bază, pentru protecţie în caz de defect.",
+    "izolaţie realizată prin utilizarea împreună a unei izolaţii de bază şi a unei izolaţii suplimentare.",
+    "izolaţia părţilor active periculoase care asigură un grad de protecţie împotriva şocurilor electrice, echivalentul unei izolaţii duble."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 63,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18700",
+   "question": "La bateriile de condensatoare de joasă tensiune fracționabile cu trepte comutabile se prevăd dispozitive de descărcare:",
+   "variants": [
+    "manuală.",
+    "automată.",
+    "manuală sau automată."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 64,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18685",
+   "question": "La circuitele electrice de comandă, automatizare, măsurare şi semnalizare:",
+   "variants": [
+    "se prevăd numai conductoare din cupru.",
+    "se prevăd conductoare din aluminiu sau cupru.",
+    "se prevăd numai conductoare din aluminiu."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 65,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18586",
+   "question": "La circuitele electrice pentru alimentarea receptoarelor de importanţă deosebită (receptoare din blocul operator al spitalelor, iluminat de siguranţă, etc) materialul conductoarelor este:",
+   "variants": [
+    "cupru sau aluminiu, condiţionat.",
+    "întotdeauna cupru.",
+    "întotdeauna aluminiu."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 66,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18677",
+   "question": "La consumatorii alimentaţi din posturi de transformare proprii, puterea celui mai mare motor alimentat pe j.t., care porneşte direct, nu va depăşi:",
+   "variants": [
+    "20 % din puterea transformatorului din care este alimentat.",
+    "30 % din puterea transformatorului din care este alimentat.",
+    "10 % din puterea transformatorului din care este alimentat."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 67,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18737",
+   "question": "La consumatorii alimentaţi din surse proprii de energie electrică, puterea motoarelor care pot fi pornite direct se determină pe bază de calcul,",
+   "variants": [
+    "dar nu se va depăşi 20% din puterea instalată a sursei.",
+    "dar nu se va depăşi 10% din puterea instalată a sursei.",
+    "verificându-se satisfacerea condiţiei de cădere de tensiune admisă."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 68,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18638",
+   "question": "La instalaţiile electrice de putere de joasă tensiune, densitatea maximă de curent admisă în regim de scurtă durată la pornire este de:",
+   "variants": [
+    "35A/mm2 pentru conductoare de cupru.",
+    "35 A/mm2 pentru conductoare de aluminiu.",
+    "16 A/mm2 pentru conductoare de aluminiu."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 69,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18632",
+   "question": "La instalaţiile electrice de putere secţiunile conductoarelor de fază trebuie să fie corespunzătoare din punct de vedere al:",
+   "variants": [
+    "stabilităţii termice în regim de defect.",
+    "tipului cicuitului de alimentare (aerian sau subteran).",
+    "secţiunii conductorului de protecţie."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 70,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18604",
+   "question": "La realizarea tablourilor şi barelor de distribuţie de j.t., distanţa minimă de izolare în aer între piesele fixe sub tensiune ale diferitelor faze, precum şi între acestea şi părţi metalice legate la pământ trebuie să fie de cel puţin:",
+   "variants": [
+    "10 mm.",
+    "20 mm.",
+    "15 mm."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 71,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18678",
+   "question": "Legarea conductoarelor din cupru la aparate, maşini, elemente metalice fixe, se face (de regulă) prin strângere mecanică cu şuruburi în cazul conductoarelor cu secţiuni mai mici sau egale cu:",
+   "variants": [
+    "10 mmp.",
+    "16 mmp.",
+    "6 mmp."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 72,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18722",
+   "question": "Legarea la pământ reprezintă realizarea unei legături electrice",
+   "variants": [
+    "numai între un punct dat al unei reţele şi un pământ local.",
+    "numai între un punct dat al unui echipament şi un pământ local.",
+    "între un punct dat al unei reţele sau al unui echipament şi un pământ local."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 73,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18587",
+   "question": "Legăturile barelor se execută:",
+   "variants": [
+    "numai prin sudare.",
+    "numai cu ajutorul şuruburilor.",
+    "cu ajutorul şuruburilor, clemelor sau prin sudare."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 74,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18588",
+   "question": "Legăturile conductoarelor de protecţie trebuie executate:",
+   "variants": [
+    "numai prin sudare.",
+    "numai prin înşurubări, cu contrapiuliţe şi şaibă elastică.",
+    "prin sudare sau prin înşurubări cu contrapiuliţe şi inele de siguranţă (şaibă elastică)."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 75,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18680",
+   "question": "Legăturile conductoarelor din aluminiu pentru îmbinări sau derivaţii trebuie să se facă:",
+   "variants": [
+    "prin lipire cu cositor.",
+    "prin răsucire şi matisare.",
+    "prin cleme speciale, prin presare cu scule speciale sau prin sudare."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 76,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18589",
+   "question": "Legăturile conductoarelor izolate se acoperă cu material electroizolant (de ex. tub varniş, bandă izolantă, capsule izolante etc):",
+   "variants": [
+    "opţional.",
+    "numai dacă sunt accesibile.",
+    "întotdeauna."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 77,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18590",
+   "question": "Legăturile electrice între conductoare izolate pentru îmbinări sau derivaţii se fac:",
+   "variants": [
+    "în interiorul golurilor din elementele de construcţie.",
+    "numai în doze sau cutii de legătură.",
+    "în interiorul tuburilor sau ţevilor de protecţie."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 78,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18764",
+   "question": "Limitarea tensiunii de alimentare, care să nu depăşească limitele TFJ (conform recomandărilor din SR CEI / TS 61201).",
+   "variants": [
+    "este o măsură tehnică pentru protecţia de bază (la atingere directă).",
+    "este o măsură tehnică suplimentară pentru protecţia în caz de defect (protecţia la atingere indirectă).",
+    "este o măsură organizatorică pentru protecţia de bază (la atingere directă)."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 79,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18684",
+   "question": "Marcarea conductorului neutru (N) se face:",
+   "variants": [
+    "cu culoarea bleu la fiecare extremitate.",
+    "cu culoarea bleu pe toată lungimea.",
+    "prin culori verde/galben pe toată lungimea."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 80,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18683",
+   "question": "Marcarea conductorului neutru care asigură simultan și funcţia de protecţie (PEN) se face",
+   "variants": [
+    "cu culoarea bleu pe toată lungimea.",
+    "prin culori verde/galben pe toată lungimea şi suplimentar marcare cu culoarea bleu la fiecare extremitate.",
+    "prin culori verde/galben pe toată lungimea."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 81,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18617",
+   "question": "Masă (a unui echipament sau element de construcţie) reprezintă:",
+   "variants": [
+    "elemente conductoare din instalaţie aflate sub tensiune.",
+    "elemente izolante din instalaţie aflate în legătură cu pământul.",
+    "parte conductoare accesibilă a unui echipament, care poate fi atinsă şi care în mod normal nu se află sub tensiune, dar care poate fi pusă sub tensiune în urma unui defect a zolaţiei de bază."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 82,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18613",
+   "question": "Montarea dozelor de trecere este obligatorie în cazul în care lungimea coloanelor în linie dreapta, pe orizontală, depăşeşte:",
+   "variants": [
+    "15 m.",
+    "20 m.",
+    "10 m."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 83,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18592",
+   "question": "Montarea pe materiale combustibile a echipamentelor electrice cu grad de protecţie inferior IP54:",
+   "variants": [
+    "este strict interzisă.",
+    "se face interpunând materiale incombustibile între acestea şi materialul combustibil sau elementele de distanţare.",
+    "este admisă fără restricţii."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 84,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18605",
+   "question": "Montarea siguranţelor de j.t. pe conductoarele instalaţiei de protecţie:",
+   "variants": [
+    "este interzisă numai în cazul în care conductorul de protecţie este folosit drept conductor de nul.",
+    "este întotdeauna permisă.",
+    "este interzisă."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 85,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18593",
+   "question": "Montarea tuburilor de protecţie a conductoarelor electrice de j.t. pe pardoseala combustibilă a podurilor:",
+   "variants": [
+    "este admisă fără restricţii.",
+    "este strict interzisă.",
+    "trebuie evitată; se poate face excepţie pentru tuburi metalice."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 86,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18716",
+   "question": "Montarea în contact direct cu materiale combustibile se admite",
+   "variants": [
+    "pentru cabluri cu izolație din PVC.",
+    "pentru toate tuburile şi plintele din materiale plastice.",
+    "pentru cabluri cu întârziere la propagarea flăcării."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 87,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18653",
+   "question": "Montarea, pe conductoarele de protecţie, a unor elemente care pot produce întreruperea circuitului este:",
+   "variants": [
+    "la latitudinea consumatorului.",
+    "interzisă.",
+    "permisă în anumite condiţii."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 88,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18594",
+   "question": "Motoarele electrice alimentate prin circuite separate trebuie prevăzute pe toate fazele:",
+   "variants": [
+    "numai cu protecţie la suprasarcini, pentru puteri mai mici de 5 kW.",
+    "numai cu dispozitiv de protecţie la scurtcircuit, pentru puteri mai mici de 5 kW.",
+    "de regulă, cu dispozitive de protecţie la scurtcircuit şi dispozitive de protecţie la suprasarcină."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 89,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18591",
+   "question": "Măsurile pentru evitarea contactului direct cu materialul combustibil al echipamentelor electrice cu grad de protecţie inferior IP54 se aplică:",
+   "variants": [
+    "numai la montarea aparentă a elementelor de instalaţii electrice.",
+    "atât la montarea aparentă cât şi la montarea îngropată.",
+    "numai la montarea sub tencuială a elementelor de instalaţii electrice."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 90,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18732",
+   "question": "Pe circuitele de alimentare ale dispozitivelor de stingere a incendiilor.",
+   "variants": [
+    "este obligatoriu să se prevadă protecţia la scurtcircuit.",
+    "se permite renunţarea la protecţia la scurtcircuit.",
+    "în norme nu sunt prevederi speciale pentru protecția la scurtcircuit a circuitelor de acest tip."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 91,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18731",
+   "question": "Pe circuitele de alimentare ale dispozitivelor de stingere a incendiilor:",
+   "variants": [
+    "se recomandă să se prevadă protecţia la suprasarcina.",
+    "se recomandă să nu se prevadă protecţia la suprasarcina.",
+    "este obligatoriu să se prevadă protecţia la suprasarcina."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 92,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18669",
+   "question": "Pe circuitele secundare ale transformatoarelor de curent:",
+   "variants": [
+    "se permite renunţarea la protecţia la scurtcircuit.",
+    "este obligatoriu să se prevadă protecţia la suprasarcină.",
+    "este obligatoriu să se prevadă protecţia la scurcircuit."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 93,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18743",
+   "question": "Pe un circuit care alimentează mai multe receptoare electrice de putere de aceeaşi natură şi destinaţie",
+   "variants": [
+    "nu se prevede protecție comună la scurtcircuit.",
+    "se prevede protecție la suprasarcină dacă puterea totală instalată a acestor receptoare depăşeşte 16 kW.",
+    "nu se prevede protecție comună la suprasarcină."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 94,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18614",
+   "question": "Pentru asigurarea selectivităţii, între curenţii nominali ai fuzibilelor a două siguranţe consecutive, diferenţa trebuie să fie de cel puţin:",
+   "variants": [
+    "două trepte.",
+    "o treaptă.",
+    "trei trepte."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 95,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18646",
+   "question": "Pentru circuite monofazate, conductorul neutru (N) va avea:",
+   "variants": [
+    "aceeaşi secţiune ca şi conductorul de fază, numai pentru conductoare de aluminiu.",
+    "aceeaşi secţiune ca şi conductorul de fază, numai pentru conductoare de cupru.",
+    "aceeaşi secţiune ca şi conductorul de fază."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 96,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18696",
+   "question": "Pentru instalaţiile electrice de iluminat şi putere (forţă):",
+   "variants": [
+    "se prevăd întotdeauna tablouri electrice de distribuţie diferite.",
+    "se prevede întotdeauna tablou electric de distribuţie comun.",
+    "se prevede tablou electric de distribuţie comun, cu unele excepţii."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 97,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18641",
+   "question": "Pentru motoarele monofazate, protecţia contra suprasarcinilor se face:",
+   "variants": [
+    "obligatoriu pe conductorul neutru.",
+    "obligatoriu pe conductorul de fază.",
+    "opţional pentru motoare mai mici de 1,1 kW."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 98,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18758",
+   "question": "Pentru realizarea prizelor de pământ se recomandă electrozi din",
+   "variants": [
+    "obiectele metalice cufundate în apă.",
+    "bare rotunde, ţevi sau profil cruce.",
+    "conductele metalice pentru lichide inflamabile sau gaze."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 99,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18647",
+   "question": "Pentru un circuit trifazat cu patru conductoare de aluminiu cu secţiunea conductoarelor de fază de 35 mm2, conductorul neutru are secţiunea minimă de:",
+   "variants": [
+    "16 mm2.",
+    "25 mm2.",
+    "35 mm2."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 100,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18577",
+   "question": "Pentru verificarea rezistenţei de izolaţie a pardoselii trebuie efectuate cel puţin trei măsurări în acelaşi amplasament; una din aceste măsurări se efectuează la o distanţă de orice conductor extern accesibil din amplasament de:",
+   "variants": [
+    "cca. 1 m",
+    "cca. 2 m",
+    "cca. 0,5 m"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 101,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18682",
+   "question": "Prevederile normativului I 7 – 2011 se aplică la proiectarea, execuţia şi exploatarea instalaţiilor electrice aferente:",
+   "variants": [
+    "depozitelor de materiale pirotehnice şi explozive.",
+    "minelor şi carierelor.",
+    "clădirilor prefabricate."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 102,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18652",
+   "question": "Prevederile normativului I7 – 2011 se aplică la proiectarea, execuţia şi exploatarea instalaţiilor electrice aferente:",
+   "variants": [
+    "clădirilor cu funcţiuni agroindustriale şi agrozootehnice.",
+    "depozitelor de materiale pirotehnice şi explozive.",
+    "minelor şi carierelor."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 103,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18759",
+   "question": "Priza de pământ este o",
+   "variants": [
+    "parte conductoare care poate fi încorporată în pământ sau într-un mediu conductor specific, de exemplu beton sau cărbune, în contact cu pământul.",
+    "parte conductoare care poate fi încorporată într-un mediu conductor specific, de exemplu beton sau cărbune, izolat față de pământ.",
+    "parte conductoare încorporată obligatoriu în pământ."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 104,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18757",
+   "question": "Priza de pământ independentă este o priză de pământ",
+   "variants": [
+    "suficient de îndepărtată de alte prize de pământ pentru ca potenţialul său electric să nu fie sensibil afectat de curenţii electrici între pământ şi alte prize de pământ.",
+    "care nu face parte dintr-o instalaţie de legare la pământ",
+    "care nu face parte dintr-o reţea de prize de pământ."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 105,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18718",
+   "question": "Prizele cu tensiunea de 230 V care se montează într-o instalație electrică trebuie să fie întotdeauna:",
+   "variants": [
+    "cu contact de protecţie.",
+    "în construcţie capsulată.",
+    "în execuţie sub tencuială."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 106,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18576",
+   "question": "Protecţia circuitelor împotriva supracurenţilor electrici, care se prevede pe toate conductoarele de fază, trebuie să producă deconectarea:",
+   "variants": [
+    "de regulă numai a conductorului în care este detectat supracurentul.",
+    "întotdeauna numai a conductorului în care este detectat supracurentul.",
+    "neapărat a tuturor conductoarelor active."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 107,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18753",
+   "question": "Protecţia de bază (protecţia împotriva atingerilor directe) se realizează",
+   "variants": [
+    "numai prin măsuri administrative.",
+    "numai prin măsuri tehnice.",
+    "prin măsuri tehnice şi organizatorice."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 108,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18706",
+   "question": "Protecţia de supracurent prevăzută pe conductorul neutru trebuie să producă deconectarea",
+   "variants": [
+    "conductorului neutru, numai dacă este o rețea TT.",
+    "conductorului neutru, numai dacă este o rețea IT.",
+    "conductoarelor active."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 109,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18671",
+   "question": "Protecţia la suprasarcini şi protecţia la scurtcircuit",
+   "variants": [
+    "pot fi asigurate printr-un singur dispozitiv de protecţie.",
+    "trebuie asigurate prin dispozitive de protecţie separate.",
+    "trebuie asigurate printr-un singur dispozitiv de protecţie."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 110,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18571",
+   "question": "Protecţia motoarelor electrice împotriva întreruperii sau scăderii tensiunii de alimentare şi restabilirea ei ulterioară este o protecţie:",
+   "variants": [
+    "întotdeauna temporizată.",
+    "întotdeauna rapidă.",
+    "care poate fi temporizată în anumite cazuri."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 111,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18746",
+   "question": "Protecţia motoarelor trifazate la suprasarcină se realizează cu un dispozitiv dependent de curent, cu temporizare, care monitorizează toate cele trei faze, reglat la",
+   "variants": [
+    "cel mult valoarea curentului nominal al motorului.",
+    "cel mult 0,8 din valoarea curentului nominal al motorului.",
+    "cel mult 0,9 din valoarea curentului nominal al motorului."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 112,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18648",
+   "question": "Protecţia unui motor trifazat împotriva suprasarcinilor trebuie să fie prevăzută:",
+   "variants": [
+    "pe toate conductoarele de fază şi pe conductorul neutru.",
+    "pe toate conductoarele de fază.",
+    "pe două conductoare de fază."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 113,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18601",
+   "question": "Puterea instalată pe un circuit monofazat de prize din clădirile de locuit şi social - culturale este de:",
+   "variants": [
+    "1,5 kW.",
+    "2 kW.",
+    "1 kW."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 114,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18756",
+   "question": "Părţile conductoare străine",
+   "variants": [
+    "pot fi utilizate drept conductoare PEN în tensiune alternativă.",
+    "nu trebuie utilizate drept conductoare PEN în tensiune alternativă.",
+    "pot fi utilizate, în anumite condiții, drept conductoare PEN în tensiune alternativă."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 115,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18595",
+   "question": "Ramificaţiile din distribuţiile cu conductoare electrice libere montate pe izolatoare în interiorul clădirilor se fixează astfel încât:",
+   "variants": [
+    "conductoarele electrice din traseul principal să poată suporta eforturile de tracţiune suplimentare.",
+    "să solicite cu tracţiune redusă conductoarele electrice din traseul principal.",
+    "să nu solicite la tracţiune conductoare electrice din traseul principal."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 116,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18771",
+   "question": "Rezistenţa de izolaţie a pardoselii şi pereţilor în fiecare punct de măsurare în condiţiile specificate în SR EN 61140 şi verificate printr-o metoda recomandată în Anexa 8.1 din I7/2011, dacă tensiunea nominală a instalaţiei nu depăşeşte 500 V în tensiune continuă sau alternativă, trebuie să fie mai mare de",
+   "variants": [
+    "100 kΩ.",
+    "50 kΩ.",
+    "75 kΩ."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 117,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18573",
+   "question": "Rezistenţa de izolaţie a unui circuit (de joasă tensiune) cu tensiune nominală > 500 V se măsoară în c.c. şi trebuie să aibă o valoare:",
+   "variants": [
+    "mai mare sau egala cu 2 MΩ",
+    "mai mare sau egala cu 1 MΩ",
+    "mai mică de 0,5 MΩ"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 118,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18740",
+   "question": "Rezistenţa prizei de pământ a unei clădiri, atunci când este folosită numai pentru protecţia împotriva şocurilor electrice, trebuie să fie cel mult",
+   "variants": [
+    "10 Ω.",
+    "4 Ω.",
+    "1 Ω."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 119,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18699",
+   "question": "Rezistenţa prizei de pământ folosite pentru protecţia împotriva şocurilor electrice, atunci când aceasta este comună cu priza de pământ pentru instalaţia de protecţie a clădirii împotriva trăsnetelor, poate fi:",
+   "variants": [
+    "cel mult 1 Ω.",
+    "cel mult 4 Ω.",
+    "cel mult 10 Ω."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 120,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18623",
+   "question": "Reţeaua de tip IT se utilizează:",
+   "variants": [
+    "fără a fi necesară luarea unor măsuri anumite.",
+    "utilizarea unui anumit tip de reţea (ca schemă de protecţie) şi eventual prevederea unor protecţii sunt opţiuni ale proiectantului.",
+    "numai cu dispozitiv de control permanent al izolaţiei conductorului neutru faţă de pământ şi/sau declanşarea automată în caz de defect."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 121,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18742",
+   "question": "Reţeaua electrică a operatorului de transport/distribuţie",
+   "variants": [
+    "constituie două surse de alimentare pentru locul de consum respectiv, dacă acesta este racordat printr-un post de transformare echipat cu două transformatoare și instalație de AAR.",
+    "constituie o singură sursă de alimentare (SEN) pentru locul de consum respectiv, indiferent de numărul de instalaţii electrice prin care este racordat.",
+    "constituie două surse de alimentare pentru locul de consum respectiv, dacă acesta este racordat printr-un post de transformare alimentat din două stații de transformare, echipat cu două transformatoare și instalație de AAR."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 122,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18744",
+   "question": "Reţeaua generală a conductoarelor principale de legare la pământ de protecţie din instalaţiile electrice pentru şantiere de construcţii şi de demolare",
+   "variants": [
+    "se realizează radial, pentru reducerea consumului de materiale.",
+    "se realizează buclat în toate cazurile.",
+    "se realizează buclat în toate cazurile în care acest lucru este posibil."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 123,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18745",
+   "question": "Reţeaua generală de protecţie din instalaţiile electrice pentru şantiere de construcţii şi de demolare, care se execută ramificat, se leagă la toate capetele de linie şi la punctele de ramificaţie la câte o priză de pământ fixă de",
+   "variants": [
+    "4 Ω.",
+    "10 Ω.",
+    "1 Ω."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 124,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18622",
+   "question": "Schema de legare la pământ de tip TN-S, în care un conductor de protecţie distinct este folosit pentru întreaga schemă, se utilizează:",
+   "variants": [
+    "numai în reţelele cu tensiune peste 500 V.",
+    "reglementările nu fac precizări privind cazurile în care se utilizează acest tip de schemă.",
+    "când trebuie separate conductoarele PE şi N pentru asigurarea funcţionării protecţiei."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 125,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18762",
+   "question": "Scoaterea de sub tensiune a instalaţiei la care se lucrează",
+   "variants": [
+    "este o măsură tehnică principală pentru protecţia în caz de defect (protecţia la atingere indirectă).",
+    "este o măsură tehnică pentru protecţia de bază (la atingere directă).",
+    "este o măsură organizatorică pentru protecţia de bază (la atingere directă)."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 126,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18574",
+   "question": "Se admit doze comune pentru circuitele de iluminat normal, de prize, de comandă şi de semnalizare:",
+   "variants": [
+    "dacă puterea instalată pe fiecare circuit nu depăşeşte 2 kW.",
+    "dacă acestea funcţionează la aceeaşi tensiune.",
+    "întotdeauna."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 127,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18596",
+   "question": "Se admite alimentarea a mai multor receptoare electrice de putere de aceeaşi natură şi destinaţie (de ex. motoare) prin acelaşi circuit de j.t. prevăzut cu protecţie comună la scurtcircuit, dacă puterea totală instalată nu depăşeşte:",
+   "variants": [
+    "10 kW.",
+    "15 kW.",
+    "8 kW."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 128,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18624",
+   "question": "Se consideră atingere directă:",
+   "variants": [
+    "contactul persoanelor sau animalelor domestice sau de crescătorie cu părţi ale unei instalaţii electrice.",
+    "contactul persoanelor sau animalelor domestice sau de crescătorie cu mase puse accidental sub tensiune datorită unui defect electric.",
+    "contactul direct al persoanelor sau al animalelor cu părţi active."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 129,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18625",
+   "question": "Se consideră atingere indirectă:",
+   "variants": [
+    "contactul persoanelor sau animalelor domestice sau de crescătorie cu părţi ale unei instalaţii electrice.",
+    "contact electric al persoanelor sau al animalelor cu părţile conductoare accesibile puse sub tensiune ca urmare a unui defect.",
+    "contactul nemijlocit sau prin intermediul unui element conductor al persoanelor sau animalelor domestice sau de crescătorie cu părţi active ale unei instalaţii electrice."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 130,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18575",
+   "question": "Se prevede accesul pe la ambele capete pe coridoarele din dreptul tablourilor de distribuţie formate din mai multe panouri având o lungime mai mare de:",
+   "variants": [
+    "10 m.",
+    "5 m.",
+    "3 m."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 131,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18645",
+   "question": "Secţiunea minimă admisă a conductorului de fază pentru circuitul unui receptor electrocasnic monofazat cu putere de peste 2 kW este de:",
+   "variants": [
+    "1,5 mm2 cupru, 2,5 mm2 aluminiu.",
+    "2,5 mm2 cupru.",
+    "4 mm2 aluminiu."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 132,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18644",
+   "question": "Secţiunea minimă admisă pentru conductoare de fază din circuite pentru prize monofazate în instalaţiile electrice din interiorul clădirilor este de:",
+   "variants": [
+    "4 mm2 aluminiu.",
+    "1,5 mm2 cupru, 2,5 mm2 aluminiu.",
+    "2,5 mm2 cupru."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 133,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18631",
+   "question": "Secţiunile conductoarelor de fază trebuie să fie corespunzătoare din punct de vedere al:",
+   "variants": [
+    "secţiunii conductorului de protecţie.",
+    "tipului reţelei (LEA sau LES).",
+    "căderii de tensiune."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 134,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18703",
+   "question": "Secțiunea conductorului PEN trebuie să fie cel puțin egală cu",
+   "variants": [
+    "6 mm2 Cu sau 10 mm2 Al.",
+    "10 mm2 Cu sau 16 mm2 Al.",
+    "10 mm2 Cu sau Al."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 135,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18720",
+   "question": "Separarea de protecţie – este o separare între două circuite electrice prin intermediul:",
+   "variants": [
+    "unei izolaţii duble.",
+    "unei protecţii electrice printr-un ecran.",
+    "unei izolaţii de bază."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 136,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18766",
+   "question": "Separarea simplă este",
+   "variants": [
+    "o separare între circuitele electrice sau între un circuit electric şi pământul local printr-o izolaţie de bază.",
+    "o separare între circuitele electrice sau între un circuit electric şi pământul local printr-o izolaţie dublă.",
+    "o separare între circuitele electrice sau între un circuit electric şi pământul local printr-o izolaţie întărită."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 137,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18606",
+   "question": "Siguranţele cu capac filetat trebuie să fie montate în aşa fel încât:",
+   "variants": [
+    "conductoarele de alimentare să fie legate la şuruburile de contact.",
+    "conductoarele de alimentare să fie legate la duliile filetate.",
+    "conductoarele de plecare spre consumatori să fie legate la şuruburile de contact."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 138,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18672",
+   "question": "Siguranţele fuzibile sunt dispozitive care protejează:",
+   "variants": [
+    "numai la curenţi de scurtcircuit.",
+    "atât la curenţi de suprasarcină cât şi la curenţi de scurtcircuit.",
+    "numai la curenţi de suprasarcină."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 139,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18620",
+   "question": "Simbolul literal T utilizat pentru notarea schemei de legare la pământ de tip IT are următoarea semnificaţie:",
+   "variants": [
+    "legarea directă la pământ a maselor instalaţiei.",
+    "legarea directă la pământ a unui punct activ – neutrul, în cazul în care acesta este accesibil sau a unui conductor de fază, în cazul în care neutrul nu este accesibil.",
+    "izolarea tuturor părţilor active faţă de pământ, sau legarea la pământ a unui punct printr-o impedanţă de valoare foarte mare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 140,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18619",
+   "question": "Simbolul literal T utilizat pentru notarea schemei de legare la pământ de tip TN are următoarea semnificaţie:",
+   "variants": [
+    "izolarea tuturor părţilor active faţă de pământ, sau legarea la pământ a unui punct printr-o impedanţă de valoare foarte mare.",
+    "legarea directă la pământ a unui punct activ – punctul neutru, în cazul în care acesta este accesibil sau a unui conductor de fază, în cazul în care punctul neutru nu este accesibil.",
+    "legarea direct la pământ a maselor instalaţiei, independent de eventuala legare la pământ a unui punct al alimentării."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 141,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18608",
+   "question": "Supunerea legăturilor electrice la eforturi de tracţiune:",
+   "variants": [
+    "este permisă în cazul conductoarelor de cupru.",
+    "este permisă întotdeauna.",
+    "este interzisă."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 142,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18607",
+   "question": "Tabloul de distribuţie de j.t. trebuie montat:",
+   "variants": [
+    "în plan orizontal.",
+    "perfect vertical şi bine fixat.",
+    "nu există prevederi speciale cu privire la modul de montare."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 143,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18609",
+   "question": "Tablourile de distribuţie din locuinţe se pot instala astfel încât înălţimea laturii de sus a tablourilor faţă de pardoseala finită să nu depăşească:",
+   "variants": [
+    "2 m.",
+    "2,5 m.",
+    "2,3 m."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 144,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18665",
+   "question": "Tablourile de distribuţie se vor executa",
+   "variants": [
+    "în construcţie deschisă sau închisă, în funcţie de condiţiile de influenţe externe şi grad de protecţie.",
+    "numai în construcţie deschisă.",
+    "numai în construcţie închisă (protejată)."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 145,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18767",
+   "question": "Tensiunea de defect este",
+   "variants": [
+    "tensiunea între un punct de defect şi pământ, ca urmare a unui defect de izolaţie.",
+    "tensiunea între un punct de defect şi o parte conductoare accesibilă.",
+    "tensiunea între un punct de defect şi pământul de referinţă, ca urmare a unui defect de izolaţie."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 146,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18728",
+   "question": "Tipurile de reţele în funcţie de modul de legare la pământ pentru tensiune alternativă sunt:",
+   "variants": [
+    "TI, TT şi IT.",
+    "TN, TI şi IT.",
+    "TN, TT şi IT."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 147,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18735",
+   "question": "Tuburile şi ţevile metalice",
+   "variants": [
+    "se pot monta direct pe elementele de construcţie din materiale combustibile.",
+    "nu se pot monta direct pe elementele de construcţie din materiale combustibile.",
+    "se pot monta direct pe elementele de construcţie din materiale combustibile, condiționat."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 148,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18610",
+   "question": "Tuburile şi ţevile metalice sau din material plastic din instalaţiile electrice de j.t. se instalează:",
+   "variants": [
+    "aparent sau îngropat, în anumite condiţii.",
+    "numai îngropat.",
+    "numai aparent."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 149,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18660",
+   "question": "Utilizarea conductelor metalice pentru apă drept conductoare de protecţie:",
+   "variants": [
+    "este recomandată.",
+    "nu este permisă.",
+    "este permisă condiţionat."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 150,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18725",
+   "question": "Utilizarea conductelor metalice pentru gaze şi/sau lichide inflamabile drept conductoare de protecţie:",
+   "variants": [
+    "este recomandată.",
+    "nu este permisă.",
+    "este permisă condiţionat."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 151,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18713",
+   "question": "Utilizarea dispozitivelor de curent diferenţial rezidual DDR reprezintă:",
+   "variants": [
+    "o măsură tehnică principală de protecţie pentru protecţia de defect.",
+    "o măsură tehnică suplimentară.",
+    "o măsură tehnică de protecţie pentru protecţia de bază."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 152,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18727",
+   "question": "Utilizarea unei singure culori pentru toate conductoarele de fază ale unui circuit",
+   "variants": [
+    "este interzisă.",
+    "este permisă dacă nu se folosește una dintre culorile verde sau galben.",
+    "este permisă, cu marcarea corespunzătoare la cele două extremităţi."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 153,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18636",
+   "question": "Valoarea curentului maxim admisibil într-un conductor în regim permanent de lucru depinde de:",
+   "variants": [
+    "modul de montare.",
+    "lungimea circuitului.",
+    "tipul receptorului alimentat."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 154,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18661",
+   "question": "Îmbinarea tuburilor de protecţie a conductoarelor electrice la trecerile prin elemente de construcţie este:",
+   "variants": [
+    "interzisă.",
+    "admisă doar pentru tuburi cu diametru mai mic de 16 mm.",
+    "admisă."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 155,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18724",
+   "question": "În România tensiunea nominala de joasă tensiune asigurata de reţeaua de distribuţie publică",
+   "variants": [
+    "este monofazată 230 V şi trifazată 400/230V, în sistem TN-C.",
+    "este monofazată 230 V şi trifazată 400/230V, în sistem TN-S.",
+    "este monofazată 400 V şi trifazată 690 V, în sistem TN-C."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 156,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18572",
+   "question": "În amplasamente cu risc de incendiu datorita prafului şi /sau fibrelor, temperatura la suprafaţa corpurilor de iluminat, în caz de defect, trebuie să fie limitată la:",
+   "variants": [
+    "115º C.",
+    "200º C.",
+    "80º C."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 157,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18662",
+   "question": "În camerele de copii din creşe, grădiniţe, spitale de copii, prizele trebuie montate pe pereţi la următoarele înălţimi măsurate de la axul aparatului la nivelul pardoselii finite:",
+   "variants": [
+    "peste 1 m.",
+    "peste 1,5 m.",
+    "peste 2 m."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 158,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18663",
+   "question": "În cazul consumatorilor racordaţi direct la reţeaua de joasa tensiune a distribuitorului, pornirea directa a motoarelor monofazate se admite pentru o putere de până la:",
+   "variants": [
+    "4 kW",
+    "3 kW",
+    "5,5 kW"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 159,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18664",
+   "question": "În cazul consumatorilor racordaţi direct la reţeaua de joasă tensiune a distribuitorului, pornirea directă a motoarelor trifazate se admite pentru o putere de până la:",
+   "variants": [
+    "5,5 kW.",
+    "7,5 kW.",
+    "4 kW."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 160,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18640",
+   "question": "În cazul instalaţiilor electrice de alimentare a motoarelor electrice, pierderea de tensiune la pornire, faţă de tensiunea nominală (dacă nu se dispune de alte date specificate de producătorul motorului etc.), trebuie să fie cel mult egală cu:",
+   "variants": [
+    "0.12",
+    "0.2",
+    "0.25"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 161,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18690",
+   "question": "În cazul instalațiilor electrice de joasă tensiune, izolaţia de bază reprezintă:",
+   "variants": [
+    "Izolaţia maselor.",
+    "Izolaţia care asigură protecţia de bază.",
+    "Izolaţia care asigură protecţia de defect."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 162,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18714",
+   "question": "În cazul unei clădiri alimentate dintr-un post de transformare, între priza de pământ a clădirii şi priza de pământ a postului de transformare trebuie să fie o distanţă de:",
+   "variants": [
+    "cel puţin 20 m.",
+    "cel mult 1000 m.",
+    "cel puţin 40 m."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 163,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18715",
+   "question": "În cazul unei clădiri alimentate dintr-un post de transformare:",
+   "variants": [
+    "în anumite situații se prevede o priză de pământ comună cu rezistenţă de cel mult 1 Ω.",
+    "se prevăd întotdeauna prize de pământ separate, la clădire și la postul de transformare.",
+    "în anumite situații se prevede o priză de pământ comună cu rezistenţă de cel mult 4 Ω."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 164,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18639",
+   "question": "În cazul în care alimentarea consumatorului se face din cofretul de branşament de joasă tensiune, valorile căderilor de tensiune, în regim normal de funcţionare faţă de tensiunea nominală a reţelei, trebuie să fie de cel mult:",
+   "variants": [
+    "3% pentru receptoarele din instalaţiile electrice de lumină şi 5% pentru restul receptoarelor (forţă etc.).",
+    "10% pentru toate tipurile de receptoare.",
+    "5% pentru receptoarele din instalaţiile electrice de lumină şi 12% pentru restul receptoarelor (forţă etc.)."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 165,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18602",
+   "question": "În cazul în care temperatura minimă este sub valorile stabilite de norme, montarea aparatelor înglobate în echipamentul de joasă tensiune:",
+   "variants": [
+    "se admite în cazul în care aparatele au ulei.",
+    "se admite dacă se prevede o încălzire locală.",
+    "nu se admite."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 166,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18666",
+   "question": "În clădirile de locuit se prevăd în fiecare încăpere:",
+   "variants": [
+    "prize după necesităţi.",
+    "cel mult două prize.",
+    "cel puţin trei prize."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 167,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18738",
+   "question": "În fiecare instalaţie la nivelul tabloului general trebuie prevăzută",
+   "variants": [
+    "o bornă / bară principală de legare la pământ, numai atunci când reţeaua de distribuţie este TN-C.",
+    "o bornă / bară principală de legare la pământ, numai în cazul în care alimentarea receptoarelor se face în sistem TN-S.",
+    "o bornă / bară principală de legare la pământ."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 168,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18698",
+   "question": "În funcţie de dispunerea conductorului neutru şi a conductorului de protecţie reţelele de tip TN se pot realiza în:",
+   "variants": [
+    "Schema TN-C-S-C.",
+    "Schema TN-C.",
+    "Schema TN-S-C."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 169,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18584",
+   "question": "În instalaţiile de joasă tensiune aferente clădirilor, rezistenţa electrică a izolaţiei trebuie măsurată:",
+   "variants": [
+    "numai între două conductoare active.",
+    "numai între conductoarele active luate 2 câte 2.",
+    "între conductoarele active şi conductorul de protecţie conectat la reţeaua de legare la pământ."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 170,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18734",
+   "question": "În instalaţiile electrice ale construcţiilor se utilizează oțelul sub formă de",
+   "variants": [
+    "conductoare neizolate rigide (bare).",
+    "conductoare izolate.",
+    "conductoare neizolate."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 171,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18749",
+   "question": "În instalaţiile electrice ale consumatorilor, pentru îmbunătăţirea factorului de putere, se utilizează",
+   "variants": [
+    "condensatoarele serie fixe.",
+    "condensatoarele serie reglabile în trepte.",
+    "condensatoarele derivaţie."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 172,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18681",
+   "question": "În instalaţiile electrice pentru şantiere de construcţii şi de demolare, rezistenţa de dispersie a prizei de pământ şi rezistenţa conductoarelor de protecţie până la receptor trebuie să fie de",
+   "variants": [
+    "minimum 4Ω.",
+    "maximum 4 Ω.",
+    "maximum 1Ω."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 173,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18667",
+   "question": "În locuinţe se prevede câte un circuit de priză separat numai pentru receptoare cu puteri de peste:",
+   "variants": [
+    "3 kW.",
+    "2,5 kW.",
+    "2 kW."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 174,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18585",
+   "question": "În mod special se prevăd conductoare din cupru la circuitele electrice pentru alimentarea de sisteme şi instalaţii de prevenire şi stingere a incendiilor, atunci când secţiunea conductoarelor din aluminiu ar rezulta mai mică de:",
+   "variants": [
+    "16 mm2.",
+    "10 mm2.",
+    "25 mm2."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 175,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18702",
+   "question": "În rețelele în care funcțiunile de conductor de protecție și de conductor neutru sunt îndeplinite de un singur conductor (PEN)",
+   "variants": [
+    "porțiunea comună se poate găsi în aval de un dispozitiv de protecție la curent diferențial rezidual, dacă rețeaua este de tip TN.",
+    "porțiunea comună trebuie să nu se găsească în aval de un dispozitiv de protecție la curent diferențial rezidual.",
+    "porțiunea comună se poate găsi în aval de un dispozitiv de protecție la curent diferențial rezidual, dacă rețeaua este de tip TT."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 176,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18730",
+   "question": "În toate reţelele TN, atunci când există un conductor PE sau PEN, acestea, când fac parte din componenţa tablourilor de distribuţie",
+   "variants": [
+    "trebuie legate la pământ obligatoriu.",
+    "pot fi sau nu legate la pământ.",
+    "trebuie legate la pământ numai dacă rezistența de dispersie a rețelei de legare la pământ este < 4Ω."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 177,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18583",
+   "question": "În încăperi de locuit şi similare se recomandă ca traseele tuburilor orizontale pe pereţi să fie distanţate faţă de plafon la:",
+   "variants": [
+    "0,5 m.",
+    "1 m.",
+    "circa 0,3 m."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 178,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18674",
+   "question": "În încăperi în care se impun condiţii speciale de protecţie datorită utilizatorilor (copii, bolnavi mintal etc.), prizele trebuie să fie",
+   "variants": [
+    "de tip îngropat.",
+    "de tip special (de ex. cu obturatori).",
+    "montate aparent."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 179,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18615",
+   "question": "Încadrarea în clasele de reacţie la foc şi rezistenţă la foc a materialelor se face în conformitate cu prevederile:",
+   "variants": [
+    "normativului I 7.",
+    "PE 102.",
+    "reglementărilor specifice."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 180,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18729",
+   "question": "Într-o reţea TN, punerea la masă a unei faze",
+   "variants": [
+    "conduce la apariția unui curent de defect trecător.",
+    "conduce la apariția unui curent de defect.",
+    "nu conduce la apariția unui curent de defect."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 181,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18705",
+   "question": "Într-o rețea de tip TN, atunci când secţiunea conductorului neutru este mai mică decât cea a conductoarelor de fază,",
+   "variants": [
+    "este necesar să se prevadă o protecţie de supracurent pe conductorul neutru, corespunzătoare secţiunii conductorului de fază.",
+    "este necesar să se prevadă o protecţie de supracurent pe conductorul neutru, corespunzătoare secţiunii acestui conductor.",
+    "nu este necesar să se prevadă o protecţie de supracurent pe conductorul neutru."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 182,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18603",
+   "question": "Întreruperea conductorului de protecţie prin aparate de comutație",
+   "variants": [
+    "este permisă.",
+    "nu este permisă.",
+    "de regulă nu este permisă, cu excepţia anumitor cazuri."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 183,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18651",
+   "question": "Întrerupătoarele, comutatoarele şi butoanele de lumină se montează, faţă de nivelul pardoselii finite, la înălţimea de:",
+   "variants": [
+    "1m de la axul aparatului.",
+    "1,5 m de la axul aparatului.",
+    "(0,6-1,5) m de la axul aparatului."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 184,
+   "category": "norme",
+   "grade": "II",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/gradul-ii-mediu-invatare-normative/",
+   "site_qid": "18675",
+   "question": "Întrerupătoarele, comutatoarele, şi butoanele de lumină trebuie montate:",
+   "variants": [
+    "numai pe conductoarele de fază.",
+    "pe fază sau pe nul, nu are importanţă.",
+    "numai pe conductorul de nul."
+   ],
+   "correct": "a",
+   "explanation": ""
+  }
+ ]
+}

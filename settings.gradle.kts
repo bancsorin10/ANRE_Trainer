@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "ANRE_Trainer"
+rootProject.name = "ANRE_Trainer_Fork"
 include(":app")

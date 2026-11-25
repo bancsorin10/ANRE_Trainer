@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+### Fork 1.1 · Bank import and rename
+- Renamed the app to **ANRE Trainer Fork** (label, title, hero, Gradle applicationId/version and project name).
+- Imported 541 questions from chestionare-anre.ro (Grade II: legislatie/norme/electrotehnica), 577 from Scientia and 635 from the legacy rust_qa_old bank, preserving the original 822 official questions with `Banca:"ANRE oficial"`.
+- Total offline bank: 2575 questions across 4 selectable banks; added bank home cards, a bank filter in the question screen and bank-aware filtering in practice/exam.
+- Added original Scientia explanations, explicit placeholders for paywalled/legacy explanations and marked the 29 legacy multi-correct questions as `NECESITĂ REVIZUIRE` (excluded from training).
+- Added idempotent `tools/merge_banks.py` and `tools/validate_banks.py` scripts.
+
 ### V10.11 · Local evidence UX
 - Changed evidence actions so the learner opens an internal evidence popup rather than being sent directly to a generic source page.
 - I7 mappings expose the verified paragraph/fragment directly in the popup, with exact location.

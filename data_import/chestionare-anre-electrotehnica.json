@@ -1,0 +1,4253 @@
+{
+ "source": "chestionare-anre.ro",
+ "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+ "category": "electrotehnica",
+ "grade": "general",
+ "pool_size_reported": null,
+ "collected": 265,
+ "fetches": 105,
+ "fetched_at": "2026-11-19T22:38:02.400384+00:00",
+ "notes": "Questions and correct answers as shown on the public learning page; explanations are paywalled (not included).",
+ "questions": [
+  {
+   "id": 1,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18095",
+   "question": "3 condensatoare având capacitatea C1=100 μF, C2=50 μF, C3=100 μF legate în paralel, au capacitatea echivalentă:",
+   "variants": [
+    "250 μF.",
+    "25 μF.",
+    "50 μF."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 2,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18096",
+   "question": "A doua lege a lui Kirchhoff, pentru o reţea electrică cu N noduri şi L laturi (L diferit de N), ne furnizează, pentru analiza unui circuit electric:",
+   "variants": [
+    "L-N +1 ecuaţii distincte",
+    "L+N-1 ecuaţii distincte",
+    "N-L+1 ecuaţii distincte"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 3,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18097",
+   "question": "AAR se utilizează în scopul:",
+   "variants": [
+    "limitării curenţilor de scurtcircuit.",
+    "creşterii continuităţii în alimentare.",
+    "reducerii pierderilor de energie pe linii."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 4,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18098",
+   "question": "Alunecarea s a unui motor asincron are valori:",
+   "variants": [
+    "cuprinse între 1 și 0.",
+    "de regulă, mai mari decât 1.",
+    "cuprinse între -1 și 0."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 5,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18099",
+   "question": "Aparatul notat cu C pe desenul de mai sus al unei celule prefabricate de medie tensiune de tip închis, reprezintă un:",
+   "variants": [
+    "întreruptor.",
+    "transformator de tensiune.",
+    "transformator de curent."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 6,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18092",
+   "question": "Atunci când se compensează energia electrică reactivă prin baterii de condensatoare, tensiunea în reţeaua electrică:",
+   "variants": [
+    "scade.",
+    "nu se modifică.",
+    "crește."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 7,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18356",
+   "question": "Autotransformatoarele sunt folosite",
+   "variants": [
+    "între reţelele de 110 kV şi 220 kV.",
+    "între reţelele de 20 kV şi 110 kV.",
+    "numai între reţelele de 220 kV şi 400 kV."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 8,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18093",
+   "question": "Bobinele de stingere din staţiile electrice de transformare sunt echipamente pentru:",
+   "variants": [
+    "compensarea factorului de putere.",
+    "compensarea curenţilor capacitivi.",
+    "dotări PSI."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 9,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18106",
+   "question": "Bobinele montate pe plecari radiale limitează curenții de scurtcircuit",
+   "variants": [
+    "înainte de punctele lor de racordare la barele stației;",
+    "atât înainte, cât și după punctele lor de racordare la barele stației;",
+    "după punctele lor de racordare la barele stației."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 10,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18102",
+   "question": "Bobinele pentru limitarea curenţilor de scurtcircuit au:",
+   "variants": [
+    "rezistenţa mare.",
+    "inductanţa mare.",
+    "inductanţa mică."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 11,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18107",
+   "question": "Cantitatea de căldură produsă la trecerea curentului electric printr-un conductor este:",
+   "variants": [
+    "invers proporţională cu rezistenta conductorului.",
+    "direct proporţională cu pătratul intensităţii curentului.",
+    "direct proporţională cu secţiunea conductorului."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 12,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18108",
+   "question": "Cantitatea de electricitate cu care se încarcă o baterie de n condensatoare montate în serie, fiecare de capacitate C, este:",
+   "variants": [
+    "aceeaşi cu care se încarcă fiecare element component.",
+    "suma cantităţilor cu care se înarcă fiecare element în parte.",
+    "egală cu de două ori cantitatea de electricitate cu care se încarcă fiecare condensator."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 13,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18109",
+   "question": "Capacitatea de serviciu Cs a unei linii electrice aeriene simetrice, având capacităţile C12=C23=C31 =C şi neglijînd influenţa pământului, este:",
+   "variants": [
+    "Cs=C.",
+    "Cs=C/3.",
+    "Cs=3 C."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 14,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18110",
+   "question": "Capacitatea echivalentă a 2 condensatoare, fiecare având capacitatea C, montate în serie este egală cu:",
+   "variants": [
+    "C.",
+    "2 C.",
+    "C/2."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 15,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18111",
+   "question": "Capsularea monopolară conduce la:",
+   "variants": [
+    "reducerea cheltuielilor de realizare a instalaţiilor.",
+    "eliminarea totală a posibilităţii apariţiei unui scurtcircuit între faze;",
+    "micşorarea riscului unor pierderi de gaz izolant."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 16,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18284",
+   "question": "Carcasa unei celule electrice",
+   "variants": [
+    "asigură protecţia echipamentului electric împotriva pătrunderii corpurilor străine şi a umezelii;",
+    "asigură numai protecţia persoanelor împotriva atingerii accidentale a pieselor aflate sub tensiune în funcţionare normală sau a pieselor în mişcare din interiorul învelişului;",
+    "asigură protecţia echipamentului electric împotriva supratensiunilor."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 17,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18112",
+   "question": "Care dintre materialele electrotehnice admit o densitate de curent mai mare:",
+   "variants": [
+    "cupru.",
+    "ambele admit aceeaşi densitate de curent",
+    "aluminiu."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 18,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18113",
+   "question": "Care dintre relaţiile următoare este adevărată:",
+   "variants": [
+    "inducţia electrică = intensitatea câmpului electric/ permitivitate.",
+    "inducţia electrică = permitivitatea x intensitatea câmpului electric.",
+    "inducţia electrică=sarcina x intensitatea câmpului electric."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 19,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18114",
+   "question": "Care dintre schemele alăturate permite obţinerea a două circuite de cuplă diagonală (cruce cu intreruptor)?",
+   "variants": [
+    "1",
+    "2",
+    "3"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 20,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18115",
+   "question": "Care dintre schemele alăturate permite obţinerea a două circuite de cuplă longitudinală (cu întrerupător)?",
+   "variants": [
+    "2",
+    "3",
+    "1"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 21,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18116",
+   "question": "Care dintre schemele alăturate permite obţinerea a două circuite de cuplă transversală (cu întrerupător)?",
+   "variants": [
+    "1",
+    "3",
+    "2"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 22,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18266",
+   "question": "Care dintre urmatoarele enunturi nu este adevarat:",
+   "variants": [
+    "energia electrică tranzitată printr-un circuit este produsul dintre puterea maximă și timpul de utilizare al puterii maxime.",
+    "energia electrică tranzitată printr-un circuit este produsul dintre puterea maximă și timpul de funcționare",
+    "energia electrica tranzitată printr-un circuit este produsul dintre puterea medie și timpul de functionare;"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 23,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18100",
+   "question": "Care element nu se foloseşte la reglarea tensiunii în reţelele electrice:",
+   "variants": [
+    "rezistorul.",
+    "bobina de compensare.",
+    "transformatorul."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 24,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18118",
+   "question": "Care este energia consumata de o rezistenta electrica r = 10 Ω, prin care trece un curent de 2 A timp de 10 ore:",
+   "variants": [
+    "400 Wh.",
+    "800 Wh.",
+    "200 Wh."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 25,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18119",
+   "question": "Ce posibilităţi de limitare a curenţilor de scurtcirciut sunt de preferat pentru schema de mai sus?",
+   "variants": [
+    "reducerea t.e.m., acţionând asupra circuitului de excitaţie al generatorului.",
+    "creşterea capacităţii de rupere a întreruptoarelor.",
+    "mărirea reactanţei schemei de alimentare între sursă şi locul de defect."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 26,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18101",
+   "question": "Cele mai des utilizate pentru serviciile interne ale centralelor electrice sunt:",
+   "variants": [
+    "motoarele sincrone.",
+    "motoarele asincrone.",
+    "motoarele de curent continuu."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 27,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18122",
+   "question": "Celulele prefabricate monobloc se caracterizează în principal prin:",
+   "variants": [
+    "gamă largă de configuraţii ale schemei de conexiuni;",
+    "securitate ridicată a persoanelor.",
+    "eliminarea totală a posibilităţii de producere a unui scurtcircuit între faze."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 28,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18201",
+   "question": "Circuitul din figură reprezintă:",
+   "variants": [
+    "un circuit de linie dintr-o stație cu un sistem de bare colectoare și bare de ocolire.",
+    "o cupla cu funcțiuni multiple intr-o statie cu doua sisteme de bare colectoare.",
+    "un circuit de linie dintr-o stație cu doua sisteme de bare colectoare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 29,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18123",
+   "question": "Circulaţia câmpului magnetic pe un contur închis este egală cu:",
+   "variants": [
+    "zero.",
+    "suma căderilor de tensiune de-a lungul conturului.",
+    "suma algebrică a curenţilor care străbat conturul."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 30,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18124",
+   "question": "Comparativ cu cele imersate, transformatoarele uscate prezintă:",
+   "variants": [
+    "necesitatea unor amenajări speciale la instalare.",
+    "o bună rezistenţă la foc.",
+    "risc redus de poluare acustică a mediului ambiant."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 31,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18104",
+   "question": "Comparativ cu cele uscate, transformatoarele imersate prezintă:",
+   "variants": [
+    "risc crescut de poluare acustică a mediului ambiant.",
+    "necesitatea unor amenajări speciale la instalare.",
+    "o bună rezistenţă la foc."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 32,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18298",
+   "question": "Comparativ cu un transformator, autotransformatorul are tensiunea de scurtcircuit:",
+   "variants": [
+    "mai mare.",
+    "mai mică.",
+    "egală."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 33,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18126",
+   "question": "Compartimentarea unei celule electrice se utilizează",
+   "variants": [
+    "protecţiei la supratensiuni.",
+    "în scopul evitării extinderii avariilor.",
+    "numai în scopul protejării personalului de exploatare;"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 34,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18127",
+   "question": "Compartimentul notat cu 2 pe desenul de mai sus al unei celule prefabricate de medie tensiune de tip închis, reprezintă:",
+   "variants": [
+    "compartimentul de legătură cu reţeaua electrică.",
+    "compartimentul circuitelor secundare.",
+    "compartimentul aparatajului de comutaţie."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 35,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18128",
+   "question": "Compartimentul notat cu 3 pe desenul de mai sus al unei celule prefabricate de medie tensiune de tip închis, reprezintă:",
+   "variants": [
+    "compartimentul circuitelor secundare.",
+    "compartimentul aparatajului de comutaţie.",
+    "compartimentul de legătură cu reţeaua electrică."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 36,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18129",
+   "question": "Componenta simetrică directă produce, în cazul unui motor electric:",
+   "variants": [
+    "cuplul util.",
+    "oscilaţii ale rotorului.",
+    "cuplul de frânare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 37,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18130",
+   "question": "Conform Legii lui Coulomb, forţa de atracţie sau de repulsie care se exercită între sarcinile electrice este:",
+   "variants": [
+    "direct proporţională cu pătratul distanţei.",
+    "direct proporţională cu distanţa.",
+    "invers proporţională cu pătratul distanţei."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 38,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18131",
+   "question": "Constanta de timp a unui circuit format dintr-un rezistor de rezistenţă R înseriat cu un condensator de capacitate C, este:",
+   "variants": [
+    "1/(RC).",
+    "R/C.",
+    "RC."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 39,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18133",
+   "question": "Curentul care circula printr-un circuit de curent alternativ, având rezistenta r=3 Ω, reactanţa x= 4 Ω si la bornele căruia se aplica o tensiune de 220 V este:",
+   "variants": [
+    "44 A",
+    "53,4 A",
+    "31,5 A"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 40,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18134",
+   "question": "Curentul din circuitul statoric al unui generator crește direct proporţional:",
+   "variants": [
+    "cu puterile reactive generate.",
+    "cu tensiunea între faze.",
+    "numai cu puterile active generate."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 41,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18120",
+   "question": "Curentul electric alternativ poate fi produs numai prin fenomene:",
+   "variants": [
+    "termice.",
+    "chimice.",
+    "de inducţie electromagnetică."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 42,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18136",
+   "question": "Curentul electric generat prin deplasarea cu viteza v a unui corp încărcat cu o sarcină electrică se numeşte:",
+   "variants": [
+    "curent electric de convecţie.",
+    "curent electric de deplasare (Maxwell).",
+    "curent electric de conducţie."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 43,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18137",
+   "question": "Curentul produs într-un circuit care conţine elemente neliniare şi care este alimentat cu o tensiune sinusoidală este:",
+   "variants": [
+    "întotdeauna sinusoidal.",
+    "nesinusoidal sau sinusoidal, depinde de natura elementelor neliniare.",
+    "întotdeauna nesinusoidal."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 44,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18138",
+   "question": "Curentul rezultat prin aplicarea unei tensiuni nesinusoidale la bornele unei bobine este:",
+   "variants": [
+    "sinusoidal.",
+    "mai puţin deformat decât tensiunea care i-a dat naştere.",
+    "mult mai deformat decât tensiunea care i-a dat naştere."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 45,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18139",
+   "question": "Curentul rezultat prin aplicarea unei tensiuni nesinusoidale la bornele unui condensator este:",
+   "variants": [
+    "sinusoidal.",
+    "mai puţin deformat decât tensiune care i-a dat naştere.",
+    "mult mai deformat decât tensiunea care i-a dat naştere."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 46,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18105",
+   "question": "Câmp fără surse este",
+   "variants": [
+    "câmpul de inducţie magnetică.",
+    "numai un câmp de curenţi de conducţie în regim staţionar.",
+    "câmpul electric."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 47,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18103",
+   "question": "Câmpul electrostatic este descris",
+   "variants": [
+    "prin intensitatea câmpului electric.",
+    "numai prin inducţia electrică.",
+    "prin inducţia magnetică."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 48,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18094",
+   "question": "Câmpul magnetic poate fi produs:",
+   "variants": [
+    "numai de magneţi permanenţi",
+    "de magneţi permanenţi și de electromagneţi",
+    "numai de electromagneţi"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 49,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18140",
+   "question": "Dacă două conductoare parcurse de curenţi în acelaşi sens sunt aşezate paralel, unul lângă altul:",
+   "variants": [
+    "densitatea de curent este uniformă pe ambele părţi ale conductoarelor.",
+    "densitatea de curent creşte în părţile mai depărtate ale conductoarelor.",
+    "densitatea de curent crește în părţile apropiate ale conductoarelor."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 50,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18125",
+   "question": "Dacă la un circuit al unei staţii de 6 sau 20 kV care funcţionează cu neutrul izolat apare o punere monofazată netă la pământ, tensiunea față de pământ a celorlalte doua faze:",
+   "variants": [
+    "scade de 1,4 ori.",
+    "crește de 1,73 ori.",
+    "rămâne constantă."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 51,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18142",
+   "question": "Dacă o forţă electromotoare E, montată în latura AB a unei reţele pasive, produce în latura CD a reţelei un curent I, montarea f.e.m. E în latura CD va produce în latura AB:",
+   "variants": [
+    "un curent - (minus) I.",
+    "un curent I/2.",
+    "un curent I."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 52,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18143",
+   "question": "Dacă printr-un condensator circulă un curent alternativ sinusoidal, la bornele sale se produce o cădere de tensiune:",
+   "variants": [
+    "în fază cu curentul.",
+    "defazată cu 90 de grade înaintea curentului.",
+    "defazată cu 90 de grade în urma curentului."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 53,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18132",
+   "question": "Delimitările prin pereţi între celulele unei staţii electrice de interior se utilizează în principal în scopul:",
+   "variants": [
+    "limitării zgomotului în corpul de conexiuni.",
+    "evitării extinderii avariilor.",
+    "asigurării unui acces mai comod la aparataj."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 54,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18145",
+   "question": "Descărcătoarele cu oxid de zinc protejează echipamentele din reţele împotriva:",
+   "variants": [
+    "supracurenţilor.",
+    "supratensiunilor.",
+    "solicitărilor mecanice."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 55,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18146",
+   "question": "Descărcătoarele cu oxizi de zinc sunt echipamente destinate:",
+   "variants": [
+    "protecţiei împotriva supracurenţilor.",
+    "protecţiei împotriva supratensiunilor.",
+    "protecţiei personalului de exploatare împotriva electrocutării."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 56,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18147",
+   "question": "Diferenţa de potenţial la bornele a n baterii de condensatoare montate în serie este egală cu:",
+   "variants": [
+    "diferenţa de potenţial la bornele fiecărui condensator în parte.",
+    "suma diferenţelor de potenţial la bornele fiecărui condensator.",
+    "diferenţa de potenţial a unui condensator împărţită la n."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 57,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18148",
+   "question": "Două funcţii periodice sinusoidale sunt armonice între ele dacă:",
+   "variants": [
+    "raportul perioadelor lor este un număr întreg oarecare.",
+    "raportul perioadelor lor este egal cu 1/2.",
+    "au aceeaşi perioadă."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 58,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18149",
+   "question": "Două sisteme de fazori trifazaţi oarecare, care au vârfuri comune şi origini diferite care se descompun în componente simetrice:",
+   "variants": [
+    "au aceleaşi componente inverse (negative).",
+    "au aceleaşi componente homopolare (zero).",
+    "au numai aceleaşi componente directe (pozitive)."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 59,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18135",
+   "question": "Durata de viață a lămpilor cu incandescență:",
+   "variants": [
+    "scade odată cu scăderea tensiunii.",
+    "scade odată cu creşterea tensiunii.",
+    "crește odată cu creşterea frecvenței."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 60,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18151",
+   "question": "Efectul pelicular al curentului este utilizat în:",
+   "variants": [
+    "eliminarea distorsiunilor undelor de curent.",
+    "eliminarea dezechilibrelor din reţeaua electrică.",
+    "încălzirea materialelor prin inducţie."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 61,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18152",
+   "question": "Efectul pelicular al unui curent care străbate un conductor masiv se datorează:",
+   "variants": [
+    "capacităţii conductorului faţă de pământ.",
+    "numai unor forţe electromotoare induse datorită variaţiei curentului.",
+    "unor curenţi paraziţi induşi în conductor, simetrici faţă de axa acestuia."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 62,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18153",
+   "question": "Energia electrică reactivă:",
+   "variants": [
+    "este o energie electrică complementară, care serveşte la magnetizarea bobinajelor.",
+    "se poate transforma în energie mecanică.",
+    "se poate transforma în energie luminoasă"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 63,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18154",
+   "question": "Energia electromagnetică produsă de curentul i care parcurge un circuit care conţine o inductanţă L este egală cu:",
+   "variants": [
+    "Li",
+    "1/2 Li^2",
+    "1/2 L i"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 64,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18155",
+   "question": "Energia electrostatică a unui conductor izolat în spaţiu, încărcat cu o sarcină q şi aflat la un potenţial V este egală cu:",
+   "variants": [
+    "q V",
+    "2 q V",
+    "1/2 q V"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 65,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18141",
+   "question": "Energia transmisă de undele electromagnetice cu intensitatea câmpului electric E şi intensitatea câmpului magnetic H se propagă după un vector:",
+   "variants": [
+    "S=ExH",
+    "S=E+H",
+    "S=HxE"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 66,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18157",
+   "question": "Enunţul \"sarcinile electrice nu pot fi create şi nici distruse, ci doar mutate\" reprezintă:",
+   "variants": [
+    "legea lui Laplace.",
+    "legea conservării sarcinii electrice.",
+    "legea lui Coulomb."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 67,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18158",
+   "question": "Enunţul \"suma algebrică a forţelor electromotoare dintr-o buclă a unei reţele electrice este egală cu suma algebrică a căderilor de tensiune din buclă\" reprezintă:",
+   "variants": [
+    "a doua lege a lui Kirchhoff.",
+    "Legea Joule -Lenz.",
+    "Prima lege a lui Kirchhoff."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 68,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18159",
+   "question": "Expresia B x i x l , unde i este intensitatea curentului care străbate un conductor de lungime l, situat perpendicular pe câmpul de inducţie magnetică de mărime B, reprezintă:",
+   "variants": [
+    "o tensiune.",
+    "o rezistenţă.",
+    "o forţă."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 69,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18160",
+   "question": "Expresia matematică a legii lui Ohm pentru o porţiune de circuit este:",
+   "variants": [
+    "I = U / R",
+    "I = U - R",
+    "I = U x R"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 70,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18161",
+   "question": "Extinderea domeniului de măsurare la ampermetre se realizează cu:",
+   "variants": [
+    "bobine înseriate.",
+    "rezistenţe adiţionale.",
+    "shunturi."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 71,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18162",
+   "question": "Extinderea domeniului de măsurare la voltmetre se realizează cu:",
+   "variants": [
+    "rezistente adiţionale.",
+    "shunturi.",
+    "condensatoare montate în paralel."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 72,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18163",
+   "question": "Factorul de atenuare al unui circuit format dintr-un rezistor de rezistenţă R înseriat cu o bobină de inductanţă L, alimentate de o forţă electromotoare constantă este egal cu:",
+   "variants": [
+    "1",
+    "L/R",
+    "R/L"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 73,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18164",
+   "question": "Fluxul electric total, emis de o sarcină electrică de valoare q printr-o suprafaţă închisă care o înconjoară, este egal cu:",
+   "variants": [
+    "valoarea numerică q/2",
+    "valoarea numerică q",
+    "valoarea numerică 2q"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 74,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18165",
+   "question": "Folosirea conductoarelor jumelate în construcţia LEA are ca scop principal:",
+   "variants": [
+    "reducerea solicitărilor mecanice ale stâlpilor.",
+    "reducerea pierderilor Corona.",
+    "reducerea curenţilor de scurtcircuit."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 75,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18166",
+   "question": "Formula de calcul a frecvenței produsă în sistemul electroenergetic de un generator cu n [rot/min] și p perechi de poli este:",
+   "variants": [
+    "f = 60 n / p",
+    "f = 60 p / n",
+    "f =n p / 60"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 76,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18167",
+   "question": "Formula e = B l v, unde e este forţa electromotoare, B este inducţia magnetica, l este lungimea unui conductor, v este viteza de deplasare a acestuia, reprezintă o forma particulara a:",
+   "variants": [
+    "legii inducţiei electromagnetice.",
+    "teoremelor Biot-Savart.",
+    "legii circuitului magnetic."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 77,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18172",
+   "question": "Forţa F care se exercită asupra unei sarcini electrice q aflată într-un câmp electric de intensitate E are expresia:",
+   "variants": [
+    "F=q/E",
+    "F=qE",
+    "F=E/q"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 78,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18168",
+   "question": "Forţa care se exercită asupra unui conductor rectiliniu, parcurs de curentul i, aflat în câmpul de inducţie magnetică B se numeşte:",
+   "variants": [
+    "forţă electromagnetică (Laplace).",
+    "forţă magnetomotoare.",
+    "forţă electrodinamică."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 79,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18169",
+   "question": "Forţa care se exercită între două conductoare străbătute de curenţi electrici se numeşte:",
+   "variants": [
+    "forţă electrodinamică.",
+    "forţă electrocinetică.",
+    "forţă magnetomotoare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 80,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18171",
+   "question": "Forţa electrodinamică exercitată între două conductoare filiforme, paralele, lungi, aflate la distanţa r, străbătute de câte un curent:",
+   "variants": [
+    "este invers proporţională cu distanţa r dintre conductoare.",
+    "nu depinde de distanţa r dintre conductoare.",
+    "este direct proporţională cu distanţa r dintre conductoare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 81,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18170",
+   "question": "Forţa electromotoare de inducţie care apare într-un circuit închis, prin variaţia fluxului magnetic, este:",
+   "variants": [
+    "dependentă de modul în care este produs fluxul magnetic.",
+    "invers proporţională cu variaţia în timp a fluxului magnetic.",
+    "direct proporţională cu variaţia în timp a fluxului magnetic."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 82,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18173",
+   "question": "Frecvenţa unei mărimi periodice este inversul:",
+   "variants": [
+    "amplitudinii.",
+    "perioadei.",
+    "fazei."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 83,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18174",
+   "question": "Funcţionarea contoarelor de inducţie are la bază:",
+   "variants": [
+    "efectul termic al curentului electric.",
+    "forţa electrostatică.",
+    "curenţii turbionari."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 84,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18177",
+   "question": "Funcţionarea transformatoarelor electrice are la bază:",
+   "variants": [
+    "fenomenul inducţiei electromagnetice.",
+    "efectul termic al curentului electric.",
+    "curenţii turbionari."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 85,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18144",
+   "question": "Funcţionarea în doua faze a unui transformator trifazat are ca efect:",
+   "variants": [
+    "reducerea puterii tranzitate.",
+    "supraîncălzirea acestuia.",
+    "suprasarcina."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 86,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18176",
+   "question": "Funcţionarea în suprasarcinã a unui transformator reprezintă:",
+   "variants": [
+    "un regim inadmisibil",
+    "un regim temporar admisibil",
+    "un regim de avarie"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 87,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18178",
+   "question": "Henry este unitatea de măsură pentru:",
+   "variants": [
+    "inductanţă",
+    "fluxul magnetic",
+    "inducţia magnetică"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 88,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18205",
+   "question": "Inductanţa de serviciu (lineică) a unei linii electrice lungi este definită prin:",
+   "variants": [
+    "inductanţa uniform răspândită l, definită prin puterea reactivă produsă de un element de linie infinit mic.",
+    "pierderile Joule disipate într-un element de linie infinit mic.",
+    "inductanţa uniform răspândită l, definită prin puterea reactivă absorbită într-un element de linie infinit mic."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 89,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18206",
+   "question": "Inductanţa proprie a unei bobine prin care trece un curent de intensitate i este raportul între ....... şi acest curent",
+   "variants": [
+    "inducţia magnetică",
+    "forţa electromotoare",
+    "fluxul propriu al bobinei"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 90,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18207",
+   "question": "Intensitatea câmpului electric într-un anumit punct se măsoară",
+   "variants": [
+    "prin raportul dintre forţa exercitată asupra unei sarcini electrice în acel punct și mărimea sarcinii.",
+    "raportul dintre tensiunea aplicată unui conductor și rezistența acestuia.",
+    "numai prin derivata în raport cu spaţiul cu semn schimbat a potenţialului în acel punct."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 91,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18208",
+   "question": "Intensitatea câmpului magnetic într-un punct exterior unui conductor rectiliniu străbătut de curentul continuu de intensitate i, aflat la distanţă r de conductor este:",
+   "variants": [
+    "direct proporţională cu r.",
+    "invers proporţională cu r.",
+    "direct proporţională cu pătratul lui r."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 92,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18225",
+   "question": "Intr-un tor (solenoid de formă circulară bobinat), energia magnetică produsă de un curent care străbate bobinajul torului este localizată:",
+   "variants": [
+    "integral în câmpul magnetic din afara torului.",
+    "1/2 din energie este înmagazinată în volumul torului, iar 1/2 în afara torului.",
+    "integral în câmpul magnetic din volumul torului."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 93,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18226",
+   "question": "Inversa rezistenţei echivalente a n rezistoare legate în paralel este egală cu:",
+   "variants": [
+    "suma inverselor rezistenţelor celor n rezistoare.",
+    "suma rezistenţelor celor n rezistoare.",
+    "suma pătratelor rezistenţelor celor n rezistoare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 94,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18220",
+   "question": "La conectarea unui circuit de linie se recomandă următoarea ordine a manevrelor:",
+   "variants": [
+    "separatorul de bare, separatorul de linie, întreruptorul.",
+    "separatorul de linie, separatorul de bare, întreruptorul.",
+    "separatorul de bare, întreruptorul, separatorul de linie."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 95,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18229",
+   "question": "La deconectarea unui circuit de linie se recomandă următoarea ordine a manevrelor:",
+   "variants": [
+    "separatorul de linie, întreruptorul, separatorul de bare.",
+    "întreruptorul, separatorul de linie, separatorul de bare.",
+    "întreruptorul, separatorul de bare, separatorul de linie."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 96,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18231",
+   "question": "La funcţionarea în gol a unei linii electrice tensiunea la capăt:",
+   "variants": [
+    "scade faţă de tensiunea la sursă proporţional cu lungimea liniei.",
+    "nu se modifică.",
+    "creşte faţă de tensiunea la sursă proporţional cu pătratul lungimii liniei."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 97,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18224",
+   "question": "La generatorul sincron viteza de rotaţie a câmpului magnetic al statorului fata de viteza de rotaţie a rotorului maşinii este:",
+   "variants": [
+    "egală.",
+    "mai mică.",
+    "mai mare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 98,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18227",
+   "question": "La maşina sincrona turaţia variază în funcţie de sarcina astfel:",
+   "variants": [
+    "crește când sarcina crește.",
+    "scade când sarcina scade.",
+    "rămâne constanta la variaţia sarcinii."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 99,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18234",
+   "question": "La o instalaţie cu mai multe condensatoare conectate în serie, căderea de tensiune pe fiecare condensator este:",
+   "variants": [
+    "direct proporţională cu capacitatea.",
+    "invers proporţională cu capacitatea.",
+    "nu depinde de capacitate."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 100,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18235",
+   "question": "La o maşină electrică asincronă turaţia variază:",
+   "variants": [
+    "cu frecvența.",
+    "numai cu sarcina.",
+    "cu curentul de excitaţie."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 101,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18236",
+   "question": "La pornirea motoarelor electrice asincrone se urmăreşte:",
+   "variants": [
+    "reducerea curentului electric absorbit de motor.",
+    "reducerea tensiunii la bornele de alimentare ale motorului.",
+    "reducerea vibraţiilor rotorului."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 102,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18237",
+   "question": "La transformatoarele la care comutarea ploturilor se face cu transformatorul în sarcina, comutatorul de ploturi se montează:",
+   "variants": [
+    "pe înfăşurarea de tensiune mai mare, deoarece curentul este mai mic.",
+    "pe înfăşurarea de tensiune mai mică, deoarece tensiunea este mai mică.",
+    "pe oricare dintre înfăşurări."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 103,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18230",
+   "question": "La un transformator cu grupa de conexiuni Y0 d-5 alimentat cu un sistem simetric de tensiuni, între neutru si pământ, în regim normal si simetric de funcţionare avem:",
+   "variants": [
+    "tensiunea zero.",
+    "tensiunea de fază.",
+    "tensiunea de linie."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 104,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18239",
+   "question": "Legea a 2-a a lui Kirchhoff pentru un circuit de curent alternativ monofazat inductiv are forma:",
+   "variants": [
+    "du = i/C dt",
+    "u= L di/dt",
+    "u = R i"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 105,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18240",
+   "question": "Legea lui Coulomb exprimă:",
+   "variants": [
+    "fluxul electric printr-o suprafaţa sferică.",
+    "diferenţa de potenţial între două puncte.",
+    "forţa de interacţiune dintre corpuri punctuale încărcate cu sarcini electrice."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 106,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18232",
+   "question": "Legea lui Ohm pentru o porţiune de circuit este valabilă:",
+   "variants": [
+    "doar în curent alternativ.",
+    "indiferent de natura circuitului.",
+    "doar în curent continuu."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 107,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18233",
+   "question": "Legile lui Kirchhoff se aplică:",
+   "variants": [
+    "numai circuitelor liniare.",
+    "numai circuitelor cu elemente neliniare.",
+    "circuitelor liniare şi circuitelor neliniare."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 108,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18238",
+   "question": "Materialele feromagnetice au permeabilitatea relativă:",
+   "variants": [
+    "puţin mai mare decât 1.",
+    "mult mai mare decât 1.",
+    "mai mică decât 1."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 109,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18248",
+   "question": "Metoda transfigurării reţelelor electrice este folosita pentru a:",
+   "variants": [
+    "reduce pierderile de putere activă în reţea.",
+    "simplifica structura reţelelor echivalente pentru a reduce volumul de calcule.",
+    "diminua consumul specific de material conductor."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 110,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18249",
+   "question": "Miezul magnetic al rotorului unei maşini electrice asincrone se realizează din tole pentru:",
+   "variants": [
+    "numai din motive constructive.",
+    "reducerea tensiunii electromotoare induse.",
+    "reducerea curenţilor turbionari."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 111,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18250",
+   "question": "Montajul fix al aparatelor în interiorul celulelor conduce la:",
+   "variants": [
+    "realizări constructive simple, fără blocaje suplimentare;",
+    "reducerea timpului necesar reviziilor şi reparaţiilor.",
+    "reducerea dimensiunilor celulelor."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 112,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18251",
+   "question": "Motoarele sincrone se utilizează rar pentru antrenarea mecanismelor de servicii proprii din centralele electrice",
+   "variants": [
+    "numai deoarece excitatoarea cu colector din circuitul acestora este un element puţin fiabil.",
+    "deoarece nu permit variaţia turaţiei în limite largi.",
+    "deoarece au randament mai mic decât al celorlalte tipuri de motoare."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 113,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18243",
+   "question": "Mărimea adimensională care reprezintă variația pe care o suferă amplitudinea și faza undei de tensiune sau curent când parcurge 1 km de linie (lungă) se numeşte:",
+   "variants": [
+    "constanta de distorsiune a liniei.",
+    "constanta de propagare a liniei.",
+    "constanta de atenuare a liniei."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 114,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18244",
+   "question": "Mărimea caracteristică circuitelor magnetice şi care este analoagă cu rezistenţa circuitelor electrice se numeşte:",
+   "variants": [
+    "impedanţă.",
+    "permeanţă.",
+    "reluctanţă."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 115,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18245",
+   "question": "Mărimea periodică alternativă este o mărime a cărei valoare medie în decursul unei perioade este egală cu:",
+   "variants": [
+    "1",
+    "1,5",
+    "0 (zero)"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 116,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18246",
+   "question": "Mărirea cuplului de pornire şi micşorarea curentului de pornire la motoarele asincrone cu rotorul în scurtcircuit se face:",
+   "variants": [
+    "prin deconectarea şi reconectarea lor la reţeaua de alimentare.",
+    "numai prin utilizarea motoarelor cu rotorul în dublă colivie.",
+    "prin utilizarea motoarelor cu rotorul în colivie cu bare înalte."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 117,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18252",
+   "question": "Nivelul de tensiune în sistem se reglează",
+   "variants": [
+    "numai prin încărcarea generatoarelor cu putere reactivă.",
+    "prin încărcarea generatoarelor cu putere activă.",
+    "prin utilizare de compensatoare."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 118,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18253",
+   "question": "O linie electrică foarte lungă se comportă ca o linie adaptată:",
+   "variants": [
+    "dacă alimentează un receptor cu impedanţă egală cu impedanţa sa caracteristică.",
+    "dacă funcţionează în gol.",
+    "dacă funcţionează în scurtcircuit."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 119,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18254",
+   "question": "O linie electrică lungă funcţionând în gol:",
+   "variants": [
+    "absoarbe putere reactivă.",
+    "produce putere reactivă.",
+    "nu produce şi nu absoarbe putere reactivă."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 120,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18255",
+   "question": "O linie electrică lungă funcţionând în scurtcircuit:",
+   "variants": [
+    "absoarbe putere reactivă.",
+    "nu produce şi nu absoarbe putere reactivă.",
+    "produce putere reactivă."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 121,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18256",
+   "question": "O protecţie este selectivă atunci când:",
+   "variants": [
+    "deconectează numai consumatorul defect.",
+    "deconectează o jumătate dintre consumatori.",
+    "deconectează toţi consumatorii."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 122,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18241",
+   "question": "O reţea electrică trifazată de medie tensiune are neutrul transformatoarelor tratat prin bobină. Pentru regimul normal de funcţionare să se precizeze efectul bobinei:",
+   "variants": [
+    "creşterea curenţilor de scurtcircuit.",
+    "nici un efect.",
+    "deplasarea neutrului."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 123,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18258",
+   "question": "O schemă cu două blocuri linie-transformator cu punte între ele de tip ,, H \" inferior este de preferat unei scheme de tip ,, H \" superior atunci când:",
+   "variants": [
+    "se fac manevre dese cu circuitele de transformator.",
+    "se fac manevre dese cu circuitele de linie.",
+    "pe legătura dintre blocuri circulă un curent mic."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 124,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18259",
+   "question": "O schemă cu două blocuri linie-transformator cu punte între ele de tip ,, H \" superior este de preferat unei scheme de tip ,, H \" inferior atunci când:",
+   "variants": [
+    "se fac manevre dese cu circuitele de linie.",
+    "se fac manevre dese cu circuitele de transformator.",
+    "pe legătura dintre blocuri circulă un curent mic."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 125,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18242",
+   "question": "O siguranţă mai mare în alimentarea consumatorilor de energie electrică se realizează prin:",
+   "variants": [
+    "reţele buclate cu funcţionare radială.",
+    "reţele radiale.",
+    "reţele buclate."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 126,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18247",
+   "question": "Pe liniile electrice de înaltă tensiune, unde se preferă montarea transformatoarelor de curent?",
+   "variants": [
+    "între barele colectoare şi separatorul de bare.",
+    "între întreruptor şi separatorul de linie.",
+    "între separatorul de bare şi întreruptor."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 127,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18257",
+   "question": "Pe măsură ce creşte tensiunea la care se realizează instalaţiile electrice, costul pierderilor de putere Cp este:",
+   "variants": [
+    "constant.",
+    "descrescător.",
+    "crescător."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 128,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18265",
+   "question": "Pe schema de mai sus sunt aparate în plus?",
+   "variants": [
+    "nu.",
+    "da, separatorul S2.",
+    "da, separatorul S1"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 129,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18267",
+   "question": "Pentru calculul curenţilor de scurtcircuit într-o reţea prin metoda componentelor simetrice, reţeaua inversă (negativă) se compune din:",
+   "variants": [
+    "impedanţe diferite de ale reţelei directe (pozitive) pentru elemente statice.",
+    "impedanţe identice cu ale reţelei directe (pozitive) atât pentru elemente statice cât și pentru maşini rotative.",
+    "impedanţe identice cu ale reţelei directe (pozitive) pentru elemente statice și impedanţe diferite de ale reţelei directe (pozitive) pentru maşini rotative."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 130,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18268",
+   "question": "Pentru limitarea curenţilor de scurtcircuit se utilizează bobine:",
+   "variants": [
+    "înseriate pe circuit, monofazate, fără miez de fier, răcite cu aer (uscate), de tip interior;",
+    "înseriate pe circuit, monofazate, cu miez de fier, răcite cu ulei, de tip interior;",
+    "racordate în derivaţie pe circuit, monofazate, fără miez de fier, răcite cu aer (uscate), de tip interior;"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 131,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18262",
+   "question": "Pentru limitarea curenţilor de scurtcircuit, puterea totală instalată într-o staţie trebuie:",
+   "variants": [
+    "mărită.",
+    "divizată în mai multe unităţi.",
+    "micşorată."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 132,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18263",
+   "question": "Pentru materialele magnetice, relaţia dintre inducţia magnetică şi intensitatea câmpului magnetic:",
+   "variants": [
+    "este o egalitate.",
+    "este neliniară.",
+    "este liniară."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 133,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18271",
+   "question": "Pentru micşorarea pierderilor de putere prin curenţi turbionari în piesele metalice mari parcurse de fluxuri magnetice variabile:",
+   "variants": [
+    "se evită plasarea pieselor metalice masive în câmpuri magnetice variabile.",
+    "se limitează dimensiunile pieselor.",
+    "se execută piesele metalice din tole de oţel cu adaus de siliciu pentru mărirea rezistivităţii, subţiri și izolate între ele."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 134,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18273",
+   "question": "Pentru o linie electrică care alimentează un receptor ce are impedanţa egală cu impedanţa caracteristică a liniei:",
+   "variants": [
+    "energia reactivă capacitivă este mai mare decât cea inductivă.",
+    "energia reactivă inductivă este mai mare decât cea capacitivă.",
+    "energiile reactive, inductivă şi capacitivă, se compensează."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 135,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18272",
+   "question": "Pentru o linie electrică lungă care alimentează un receptor ce are impedanţa egală cu impedanţa caracteristică a liniei, puterea activă la extremitatea receptoare:",
+   "variants": [
+    "depinde de lungimea liniei.",
+    "este independentă de tensiunea liniei.",
+    "se numeşte putere caracteristică sau putere naturală."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 136,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18274",
+   "question": "Pentru o putere aparentă dată puterea activă are valoarea maximă:",
+   "variants": [
+    "când factorul de putere = 0 .",
+    "când factorul de putere =1 .",
+    "când U = U max ."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 137,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18275",
+   "question": "Permeabilitatea este o mărime:",
+   "variants": [
+    "mecanică.",
+    "electrică.",
+    "magnetică."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 138,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18276",
+   "question": "Permitivitatea este o mărime:",
+   "variants": [
+    "electrică.",
+    "magnetică.",
+    "chimică."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 139,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18264",
+   "question": "Pierderea de putere activa într-un element de reţea (transformator, LEA, LEC) , la aceeaşi putere aparentã vehiculatã, este direct proportionalã cu:",
+   "variants": [
+    "pătratul tensiunii reţelei",
+    "pătratul curentului",
+    "pătratul frecventei"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 140,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18278",
+   "question": "Pierderile de putere activă şi reactivă pe o linie electrică, la aceeaşi putere aparentă vehiculată, sunt invers proporţionale cu:",
+   "variants": [
+    "pătratul puterii active.",
+    "pătratul tensiunii.",
+    "pătratul curentului."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 141,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18279",
+   "question": "Pierderile de putere într-o linie electrică prin care se transportă o putere activă P la un factor de putere = 0,9, faţă de cazul când se transportă aceeaşi putere la un factor de putere = 0,8 sunt:",
+   "variants": [
+    "mai mici.",
+    "mai mari.",
+    "egale."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 142,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18280",
+   "question": "Potenţialul electrostatic în punctul M este:",
+   "variants": [
+    "forţa care este necesară pentru a transporta unitatea de sarcină pozitivă de la infinit până în punctul M.",
+    "forţa care este necesară pentru a transporta unitatea de sarcină pozitivă din punctul M până la infinit.",
+    "lucrul mecanic care trebuie produs spre a transporta unitatea de sarcină pozitivă de la infinit până în punctul M."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 143,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18281",
+   "question": "Prima lege a lui Kirchhoff, pentru o reţea electrică buclată cu N noduri, ne dă, pentru curenţii care circulă prin reţea:",
+   "variants": [
+    "N relaţii distincte.",
+    "N+1 relaţii distincte.",
+    "N-1 relaţii distincte."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 144,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18282",
+   "question": "Prin adăugarea, pe toate laturile pornind din acelaşi nod al unei reţele buclate, a unor forţe electromotoare (f.e.m.) egale şi la fel orientate faţă de nod (teorema lui Vaschy):",
+   "variants": [
+    "se pot modifica curenţii din laturile cu f.e.m. adăugate.",
+    "circulaţia de curenţi existentă anterior în reţea nu se modifică.",
+    "se modifică circulaţia de curenţi din laturile pe care nu se adaugă f.e.m. ."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 145,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18283",
+   "question": "Principalele elemente feromagnetice sunt:",
+   "variants": [
+    "Fierul, nichelul şi cobaltul.",
+    "Fierul, cuprul, zincul.",
+    "Fierul, aluminiul, cuprul."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 146,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18285",
+   "question": "Principalul avantaj al motoarelor asincrone cu rotorul în scurtcircuit cu simplă colivie îl constituie:",
+   "variants": [
+    "pornirea fără dispozitiv de pornire.",
+    "curentul mic de pornire.",
+    "cuplul de pornire foarte bun."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 147,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18286",
+   "question": "Principalul avantaj al motoarelor de curent continuu îl constituie faptul că:",
+   "variants": [
+    "nu necesită întreţinere permanentă.",
+    "prezintă o construcţie simplă şi robustă.",
+    "permit reglarea în limite largi a turaţiei."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 148,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18289",
+   "question": "Printre măsurile de reducere a distanţelor de izolare pot fi:",
+   "variants": [
+    "aplicarea unui strat protector pe izolatoare pentru micşorarea efectelor poluării din marile oraşe sau de pe unele platforme industriale;",
+    "micşorarea densităţii dielectricilor gazoşi.",
+    "folosirea dispozitivelor de limitare a curenţilor de scurtcircuit;"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 149,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18290",
+   "question": "Producerea dublei puneri la pământ a bobinajului rotoric al unui generator sincron are ca efect negativ",
+   "variants": [
+    "numai creșterea foarte mare a curentului prin circuitul rotoric.",
+    "apar scântei la periile colectorului.",
+    "faptul că tensiunile electromotoare nu mai sunt sinusoidale."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 150,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18269",
+   "question": "Puterea electrică reactivă:",
+   "variants": [
+    "produce transformarea energiei electrice în energie mecanică.",
+    "este variaţia în timp a energiei magnetice şi electrice.",
+    "permite definirea limitelor de utilizare ale unui aparat electric."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 151,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18270",
+   "question": "Puterea nominală a unui motor electric se defineşte astfel:",
+   "variants": [
+    "puterea mecanică debitatã de motor la arbore când este alimentat la Un și absoarbe In.",
+    "puterea activă transmisã prin întrefierul motorului când este alimentat la Un și absoarbe In.",
+    "puterea activă absorbitã de motor de la reţea când este alimentat la Un și absoarbe In."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 152,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18293",
+   "question": "Raportul nominal de transformare al unui transformator de putere este:",
+   "variants": [
+    "raportul dintre tensiunea primară și secundara de mers în gol.",
+    "raportul dintre tensiunea primară și secundară la sarcina nominală.",
+    "raportul dintre curentul primar și secundar la sarcina nominală."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 153,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18294",
+   "question": "Reactanţa supratranzitorie a unui motor este:",
+   "variants": [
+    "invers proporţională cu pătratul tensiunii de alimentare.",
+    "direct proporţională cu curentul de pornire.",
+    "invers proporţională cu curentul de pornire."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 154,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18288",
+   "question": "Reducerea nivelului de izolație din instalațiile capsulate cu SF6 poate fi provocată",
+   "variants": [
+    "numai de produse de descompunere ale SF6 şi compuşii lor cu materiale izolante sau metale, sub influenţa umidităţii.",
+    "de impurităţi ca urmare a unui montaj necorespunzător (dacă montajul se face cu mâini murdare, transpirate, urme de grăsime, praf de diferite feluri şi mai ales pilituri metalice).",
+    "umiditatea reziduală scăzută a gazului izolant."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 155,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18296",
+   "question": "Reglarea puterii active debitate de generatorul sincron se face variind:",
+   "variants": [
+    "admisia agentului primar la turbină.",
+    "curentul statoric.",
+    "tensiunea de excitaţie."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 156,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18297",
+   "question": "Reglarea puterii reactive debitate de generatorul sincron se face prin:",
+   "variants": [
+    "modificarea curentului de excitaţie.",
+    "deconectarea rezistenței de stingere.",
+    "deschiderea aparatului director al turbinei."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 157,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18277",
+   "question": "Regulatorul automat de tensiune (RAT) asigurã:",
+   "variants": [
+    "modificarea curentului (tensiunii) de excitaţie la generatoarele sincrone.",
+    "conectarea automată a unui transformator de rezervă.",
+    "deconectarea automată a liniilor la suprasarcină."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 158,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18299",
+   "question": "Relaţia între curenţii de linie și de fază în sisteme cu generatoare și receptoare conectate în triunghi este:",
+   "variants": [
+    "curentul de linie este mai mare de 1,73 ori decât curentul de fază.",
+    "curentul de fază este mai mare de de 1,73 ori decât curentul de linie.",
+    "curentul de linie este egal cu curentul de fază."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 159,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18291",
+   "question": "Releul termic se foloseşte pentru:",
+   "variants": [
+    "protejarea motoarelor electrice împotriva suprasarcinilor.",
+    "protejarea generatoarelor și motoarelor electrice împotriva punerii la pământ.",
+    "protejarea motoarelor electrice la scurtcircuit."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 160,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18287",
+   "question": "Rezistenţa echivalentă a două rezistenţe cu valori diferite montate în paralel este:",
+   "variants": [
+    "egală cu suma rezistenţelor.",
+    "mai mică decât rezistenţa mai mică.",
+    "mai mare decât rezistenţa mai mare."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 161,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18292",
+   "question": "Rezistența echivalentă a trei rezistoare, având fiecare rezistența de 2 ohm, montate în serie este:",
+   "variants": [
+    "0,66 ohm.",
+    "5 ohm.",
+    "6 ohm."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 162,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18302",
+   "question": "Rezistența echivalentă a trei rezistoare, având fiecare rezistența de 3 ohm, montate în paralel, este:",
+   "variants": [
+    "1 ohm.",
+    "3 ohm.",
+    "9 ohm."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 163,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18303",
+   "question": "Rezistivitatea unui conductor electric depinde de:",
+   "variants": [
+    "natura materialului.",
+    "masa, direct proporţional.",
+    "lungime, direct proporţional."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 164,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18304",
+   "question": "Rezonanţa se obţine într-un circuit electric de curent alternativ dacă:",
+   "variants": [
+    "reactanţa inductivă este mai mare decât reactanţa capacitivă.",
+    "reactanţele inductivă şi capacitivă în valoare absolută sunt egale.",
+    "reactanţa capacitivă este mai mare decât reactanţa inductivă."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 165,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18305",
+   "question": "Rolul conservatorului de ulei la transformatoarele de forţă este:",
+   "variants": [
+    "de a asigura o suprafaţă de contact a uleiului cu aerul mai mică.",
+    "numai de a asigura spaţiul necesar dilatării și contractării uleiului.",
+    "de a face posibilă umplerea cu ulei a transformatorului."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 166,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18306",
+   "question": "Rolul dominant pentru reglarea nivelului de tensiune pe o linie electrica îl are:",
+   "variants": [
+    "nici una din cele două.",
+    "circulaţia de putere reactivă.",
+    "circulaţia de putere activă."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 167,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18310",
+   "question": "Schema echivalentă de calcul în cazul producerii unui scurtcircuit trifazat şi la pământ, cu arc, se compune din:",
+   "variants": [
+    "schema de secvenţă directă (pozitivă) înseriată cu schema de secvenţă inversă (negativă).",
+    "schema de secvenţă directă (pozitivă) înseriată cu triplul impedanţei arcului.",
+    "schema de secvenţă directă (pozitivă)."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 168,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18309",
+   "question": "Schema echivalentă de calcul în cazul producerii unui scurtcircuit trifazat, al unei reţele, izolat de pământ se compune din:",
+   "variants": [
+    "schemele de secvenţă directă (pozitivă), inversă (negativă) şi homopolară (zero) conectate în serie.",
+    "schema de secvenţă directă (pozitivă).",
+    "schemele de secvenţă directă (pozitivă) şi inversă (negativă) conectate în paralel."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 169,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18308",
+   "question": "Schema echivalentă de calcul în cazul producerii unui scurtcircuit între două faze ale unei reţele izolat de pământ şi fără arc electric se compune din:",
+   "variants": [
+    "schemele de secvenţă directă (pozitivă) şi inversă (negativă) conectate în paralel.",
+    "schema de secvenţă directă (pozitivă) înseriată cu triplul impedanţei arcului.",
+    "schemele de secvenţă directă (pozitivă), inversă (negativă) şi homopolară (zero) conectate în paralel."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 170,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18121",
+   "question": "Scheme cu un sistem de bare colectoare şi un întreruptor pe circuit sunt folosite",
+   "variants": [
+    "pentru toate treptele de tensiune din reţelele de distribuţie.",
+    "numai pentru staţii de conexiuni de 6 kV.",
+    "numai pentru staţii de conexiuni de medie tensiune până la 60 kV."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 171,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18312",
+   "question": "Scopul normării distanţelor de izolare în aer minime admisibile pentru instalaţiile electrice este asigurarea:",
+   "variants": [
+    "protecţiei personalului de exploatare a instalaţiei.",
+    "realizării unei economii de teren.",
+    "siguranţei în funcţionare a instalaţiei, prin reducerea numărului de defecte în instalaţie."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 172,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18202",
+   "question": "Scopul supraînalțării echipamentelor electrice din instalații electrice exterioare este asigurarea",
+   "variants": [
+    "esteticii si clarității instalației.",
+    "accesului mai comod în instalație.",
+    "securității personalului de exploatare."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 173,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18300",
+   "question": "Se considera ca un transformator funcţionează în gol atunci când:",
+   "variants": [
+    "o înfăşurare este conectată la reţea, iar cealaltă este deschisă.",
+    "curentul primar și curentul secundar sunt foarte mici.",
+    "sarcina transformatorului este foarte mică."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 174,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18315",
+   "question": "Secţionarea barelor colectoare ale unei staţii electrice conduce",
+   "variants": [
+    "limitarea curenţilor de scurtcircuit pe barele respective, dacă alimentarea staţiei se face printr-un singur transformator.",
+    "numai la limitarea curenţilor de scurtcircuit pe barele respective, dacă alimentarea staţiei se face prin două transformatoare sau printr-un transformator cu înfăşurare divizată.",
+    "la mărirea continuităţii în alimentare a consumatorilor racordaţi la bare."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 175,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18316",
+   "question": "Secţionarea barelor colectoare în staţiile electrice are scopul:",
+   "variants": [
+    "de a reduce pierderile de putere.",
+    "de limitare a curenţilor de scurtcircuit.",
+    "de a reduce costul instalaţiei."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 176,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18317",
+   "question": "Sensul puterii deformante într-un circuit format dintr-un generator care produce o undă sinusoidală şi o bobină cu miez de fier saturat este:",
+   "variants": [
+    "poate avea oricare sens, în funcţie de încărcarea generatorului.",
+    "întotdeauna de la bobină spre generator.",
+    "de la generator spre bobină."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 177,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18318",
+   "question": "Separatorul, ca echipament în cadrul unei staţii electrice, are rolul:",
+   "variants": [
+    "de a măsură nivelul de izolaţie.",
+    "de a separa vizibil un circuit.",
+    "de a proteja circuitul la supracurenţi."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 178,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18319",
+   "question": "Siguranţele electrice au rolul de a:",
+   "variants": [
+    "face trecerea din linie electrică aeriană în line electrică în cablu.",
+    "asigură protecţia personalului.",
+    "proteja instalaţia din aval la defecte la scurtcircuit ca și la suprasarcini de lungă durată"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 179,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18320",
+   "question": "Siguranţele electrice sunt aparate electrice care împiedică:",
+   "variants": [
+    "creşterea tensiunii peste o valoare limită.",
+    "creşterea curentului peste o valoare limită.",
+    "scăderea curentului sub o valoare limită."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 180,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18321",
+   "question": "Siguranţele fuzibile sunt aparate utilizate pentru protecţie la:",
+   "variants": [
+    "defect de izolaţie.",
+    "supratensiuni.",
+    "supracurenţi."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 181,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18322",
+   "question": "Singurele mărimi fizice reale în curent alternativ sunt:",
+   "variants": [
+    "mărimile instantanee de curent sau de tensiune.",
+    "valorile medii de curent sau de tensiune.",
+    "mărimile efective de curent sau de tensiune."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 182,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18323",
+   "question": "Sistemele simetrice de fazori în care se descompun sistemele de tensiuni sau de curenţi dezechilibraţi:",
+   "variants": [
+    "numai sistemul direct corespunde unei realităţi fizice.",
+    "reprezintă artificii de calcul.",
+    "corespund unor realităţi fizice."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 183,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18324",
+   "question": "Sistemul de tensiuni al unei reţele racordate la un generator electric care produce tensiuni electromotoare simetrice:",
+   "variants": [
+    "este întotdeauna simetric.",
+    "este simetric chiar dacă fazele sunt neegal încărcate.",
+    "este simetric dacă fazele sunt egal încărcate."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 184,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18301",
+   "question": "Spaţiul ocupat de o instalaţie capsulată depinde în principal de:",
+   "variants": [
+    "realizarea capsulării: capsulare tripolară sau monopolară.",
+    "curentul nominal al legăturilor electrice.",
+    "mediul de stingere a arcului electric."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 185,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18326",
+   "question": "Suma forţelor electromotoare ale unui sistem trifazat simetric este:",
+   "variants": [
+    "egală cu 1.",
+    "egală cu 1/2.",
+    "nulă."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 186,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18327",
+   "question": "Supratensiunile de trăsnet pot fi:",
+   "variants": [
+    "induse.",
+    "numai directe.",
+    "de rezonanța sau de ferorezonanţă"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 187,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18313",
+   "question": "Susceptanţa unui circuit de curent alternativ sinusoidal este inversul:",
+   "variants": [
+    "reactanţei.",
+    "rezistenţei.",
+    "impedanţei."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 188,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18204",
+   "question": "Temperatura înfăşurărilor statorice ale generatoarelor electrice este determinată de:",
+   "variants": [
+    "tensiunea între faze.",
+    "pierderile Joule-Lenz.",
+    "numai de temperatura mediului ambiant."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 189,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18329",
+   "question": "Teoremele (formulele) Biot Savart Laplace se referă la:",
+   "variants": [
+    "intensitatea câmpului magnetic produs de un curent care circulă printr-un conductor.",
+    "forţa exercitată între două conductoare paralele parcurse de curenţi.",
+    "forţa electromagnetică."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 190,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18330",
+   "question": "Tesla este unitatea de măsură a:",
+   "variants": [
+    "intensităţii câmpului magnetic.",
+    "fluxului magnetic.",
+    "inducţiei magnetice."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 191,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18331",
+   "question": "Transformatoarele cu ulei prevăzute cu conservator prezintă următoarele caracteristici:",
+   "variants": [
+    "asigură facilităţi în modul de dispunere a bornelor şi deci de racordare la reţea.",
+    "dilatarea lichidului este compensată prin deformarea elastică a pereţilor cuvei;",
+    "împiedică, dar nu elimină, pătrunderea umidităţii în interiorul rezervorului de expansiune;"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 192,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18332",
+   "question": "Transformatoarele de măsurare a curenţilor se construiesc pentru curenţi secundari de:",
+   "variants": [
+    "1 sau 5 A.",
+    "1 sau 10 A.",
+    "5 sau 10 A."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 193,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18314",
+   "question": "Transformatoarele de măsurare de curent:",
+   "variants": [
+    "nu pot fi racordate in circuitul primar cu înfăşurarea secundară deschisă.",
+    "pot fi racordate în circuitul primar cu înfăşurarea secundară deschisă.",
+    "pot fi lăsate în exploatare cu înfăşurarea secundară deschisă."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 194,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18325",
+   "question": "Transformatoarele de măsurare de tensiune se construiesc pentru tensiuni în secundar de:",
+   "variants": [
+    "50 V.",
+    "100 V.",
+    "10 V."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 195,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18335",
+   "question": "Transformatoarele de măsurare de tensiune:",
+   "variants": [
+    "nu pot fi lăsate în exploatare cu înfăşurarea secundara deschisă",
+    "nu pot fi lăsate în exploatare cu înfăşurarea secundară în scurtcircuit",
+    "pot fi puse sub tensiune cu înfăşurarea secundară în scurtcircuit"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 196,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18311",
+   "question": "Transformatoarele de măsură se folosesc",
+   "variants": [
+    "în instalaţiile de curent alternativ de înaltă tensiune.",
+    "în instalaţiile de curent continuu de înaltă şi joasă tensiune.",
+    "numai în instalaţiile de curent alternativ de medie tensiune."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 197,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18336",
+   "question": "Un circuit de curent alternativ, pentru care factorul de putere este egal cu 1, este un circuit:",
+   "variants": [
+    "pur rezistiv.",
+    "pur inductiv.",
+    "pur capacitiv."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 198,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18328",
+   "question": "Un conductor în care circulaţia curentului electric nu se supune legii lui Ohm se numeşte:",
+   "variants": [
+    "neomogen.",
+    "liniar.",
+    "neliniar."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 199,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18338",
+   "question": "Un corp conductor situat într-un câmp electric de intensitate E se încarcă cu electricitate:",
+   "variants": [
+    "prin magnetizare.",
+    "prin inducţie.",
+    "prin conducţie."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 200,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18341",
+   "question": "Un motor electric sincron, care funcţionează subexcitat:",
+   "variants": [
+    "absoarbe putere activă şi produce putere reactivă.",
+    "absoarbe putere activă şi putere reactivă.",
+    "produce putere activă şi putere reactivă."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 201,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18333",
+   "question": "Un motor electric trifazat legat în stea este în funcţiune și alimentat la 0,4 kV. Tensiunea între neutrul stelei și una dintre faze este:",
+   "variants": [
+    "0,4 kV.",
+    "230 V.",
+    "0 V."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 202,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18343",
+   "question": "Un număr de n surse având fiecare tensiunea electromotoare continua e si rezistenta interioara r, legate în paralel pot fi înlocuite printr-o sursa echivalenta având:",
+   "variants": [
+    "tensiunea electromotoare e și rezistența nr.",
+    "tensiunea electromotoare e și rezistența r/n.",
+    "tensiunea electromotoare ne și rezistență r/n."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 203,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18344",
+   "question": "Un receptor electric de rezistenţă R conectat la bornele AB ale unui circuit de alimentare oarecare absoarbe puterea maximă dacă:",
+   "variants": [
+    "rezistenţa R este egală cu rezistenţa internă a sursei de tem",
+    "rezistenţa R tinde spre zero",
+    "rezistenţa R este egală cu rezistenţa totală a circuitului văzută prin bornele AB"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 204,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18295",
+   "question": "Un regim energetic este deformant",
+   "variants": [
+    "undele de curent şi tensiune sunt periodice iar una este nesinusoidală.",
+    "dacă undele de curent şi tensiune nu sunt periodice.",
+    "numai dacă undele de curent şi de tensiune sunt ambele periodice şi nesinusoidale."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 205,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18334",
+   "question": "Un separator pe un circuit de înaltă tensiune poate fi manevrat:",
+   "variants": [
+    "cu curent fără tensiune.",
+    "fără curent, fără tensiune sau sub tensiune, fără curent.",
+    "sub tensiune și cu curent."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 206,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18346",
+   "question": "Un transformator de măsurare de curent nu poate fi lăsat cu secundarul în gol, deoarece:",
+   "variants": [
+    "apar supratensiuni periculoase în secundar.",
+    "nu indică aparatele de măsurare.",
+    "împiedică circulaţia curentului primar."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 207,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18340",
+   "question": "Un întreruptor debroşabil asigură:",
+   "variants": [
+    "protecţia în caz de scurtcircuit.",
+    "protecţia la supratensiuni.",
+    "numai comutaţia în regim normal."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 208,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18347",
+   "question": "Unitatea de măsură a capacităţii unui condensator este:",
+   "variants": [
+    "Axh.",
+    "A/h.",
+    "F."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 209,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18348",
+   "question": "Unitatea de măsură a fluxului electric este:",
+   "variants": [
+    "Coulombul.",
+    "Faradul.",
+    "V/m."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 210,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18349",
+   "question": "Unitatea de măsură a fluxului magnetic este:",
+   "variants": [
+    "Tesla.",
+    "Weber.",
+    "Farad."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 211,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18350",
+   "question": "Unitatea de măsură a frecvenţei mărimilor periodice se numeşte:",
+   "variants": [
+    "Henry",
+    "Weber.",
+    "Hertz"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 212,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18351",
+   "question": "Unitatea de măsură a sarcinii electrice este:",
+   "variants": [
+    "Coulomb.",
+    "Farad.",
+    "V/m."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 213,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18352",
+   "question": "Unitatea de măsură ohm x mmp / m este pentru:",
+   "variants": [
+    "coeficient de dilataţie.",
+    "greutate specifica.",
+    "rezistivitate."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 214,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18353",
+   "question": "Unitatea de măsură pentru măsurarea puterii active este:",
+   "variants": [
+    "kW/h.",
+    "kW.",
+    "kWh."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 215,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18354",
+   "question": "Unitatea de măsură pentru puterea reactiva este:",
+   "variants": [
+    "kVAr.",
+    "kW.",
+    "kVA."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 216,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18360",
+   "question": "Utilizarea SF6 ca mediu de izolare",
+   "variants": [
+    "conduce la realizarea unor celule cu pericol de incendiu;",
+    "conduce la realizarea unor celule compacte.",
+    "conduce numai la realizarea unor celule cu întreţinere mult simplificată;"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 217,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18361",
+   "question": "Utilizarea SF6 ca mediu de stingere a arcului electric permite",
+   "variants": [
+    "realizarea unor întreruptoare cu întreţinere mult simplificată;",
+    "puţin silenţioase.",
+    "doar realizarea unor întreruptoare fără pericol de incendiu;"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 218,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18117",
+   "question": "Utilizarea unei cuple cu funcțiuni multiple se preferă atunci când dorim",
+   "variants": [
+    "reducerea investiției în echiparea stației.",
+    "creșterea continuității în alimentare.",
+    "scurtarea duratei manevrelor."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 219,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18337",
+   "question": "Utilizarea unei cuple longo-transversale se preferă atunci când dorim:",
+   "variants": [
+    "scurtarea manevrelor.",
+    "reducerea investiţiei în echiparea staţiei.",
+    "o siguranţă în funcţionare mai mare."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 220,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18362",
+   "question": "Utilizarea vidului ca mediu de stingere a arcului electric:",
+   "variants": [
+    "creşte masa şi gabaritul întreruptoarelor.",
+    "nu reduce cheltuielile de întreţinere.",
+    "reduce pericolul de incendiu."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 221,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18355",
+   "question": "Utilizarea întreruptoarelor debroşabile:",
+   "variants": [
+    "asigură scurtarea duratei reviziilor la celule.",
+    "nu asigură eliminarea unor greşeli de manevră datorate separatoarelor;",
+    "asigură numai izolarea personalului care lucrează la întreruptor, de restul instalaţiei aflată sub tensiune."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 222,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18359",
+   "question": "Utilizarea întreruptorului debroşabil:",
+   "variants": [
+    "asigură doar compactarea celulei.",
+    "asigură rapiditate în restabilirea alimentării în cazul unei defectări;",
+    "creşte riscul de electrocutare a personalului care execută lucrări de revizie în celulă."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 223,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18342",
+   "question": "Valoarea conductivităţii electrice este în ordine crescătoare la următoarele materiale:",
+   "variants": [
+    "aluminiu, cupru, argint.",
+    "aluminiu, argint, cupru.",
+    "argint, cupru, aluminiu."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 224,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18363",
+   "question": "Valoarea frecventei în sistemul electroenergetic este determinata în principal de:",
+   "variants": [
+    "modul de tratare a neutrului reţelei",
+    "circulaţia puterii reactive",
+    "bilanţul puterilor active"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 225,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18345",
+   "question": "Valoarea intensităţii câmpului electric produs de o sarcină electrică la distanţa r este:",
+   "variants": [
+    "direct proporţională cu r.",
+    "direct proporţională cu pătratul lui r.",
+    "invers proporţională cu pătratul lui r."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 226,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18364",
+   "question": "Valoarea medie a capacităţii lineice pentru o linie electrică aeriană trifazată este ......... faţă de cea a unui cablu subteran.",
+   "variants": [
+    "mai mică.",
+    "mai mare.",
+    "egală."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 227,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18365",
+   "question": "Valoarea medie a inductanţei de serviciu pentru o linie electrică aeriană trifazată este ......... faţă de cea a unui cablu subteran.",
+   "variants": [
+    "mai mică.",
+    "mai mare.",
+    "egală."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 228,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18366",
+   "question": "Valoarea medie pătratică a unei mărimi periodice se mai numeşte şi:",
+   "variants": [
+    "modul",
+    "amplitudine",
+    "valoare efectivă sau valoarea eficace"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 229,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18179",
+   "question": "Împărţirea fiecărei faze a unei instalaţii capsulate într-un anumit număr de compartimente atrage după sine:",
+   "variants": [
+    "mărirea cantităţilor de gaz ce trebuie manipulate în cazul intervenţiei la un compartiment.",
+    "mărirea riscului de producere a unor scăpări de gaz;",
+    "limitarea posibilităţilor de producere a unui defect în instalaţie;"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 230,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18181",
+   "question": "În cazul apariţiei fenomenului de rezonanţă într-un circuit de curent alternativ, alimentat de la o sursă, aceasta furnizează circuitului:",
+   "variants": [
+    "numai energie activă.",
+    "energie activă şi reactivă.",
+    "numai energie reactivă."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 231,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18182",
+   "question": "În cazul circuitelor de curent alternativ, teoremele lui Kirchhoff sunt întotdeauna satisfăcute pentru:",
+   "variants": [
+    "valorile instantanee ale tensiunilor şi curenţilor.",
+    "valorile efective ale tensiunilor şi curenţilor.",
+    "modulele fazorilor asociaţi tensiunilor şi curenţilor."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 232,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18150",
+   "question": "În cazul conexiunii în stea la transformator:",
+   "variants": [
+    "tensiunea de linie este egală cu ~1,73 x tensiunea de fază",
+    "tensiunea de linie este egală cu tensiunea de fază",
+    "curentul de linie este egal cu ~1,73 x curentul de fază"
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 233,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18187",
+   "question": "În cazul pornirii stea triunghi a motoarelor asincrone, curentul de pornire la conexiunea stea este:",
+   "variants": [
+    "1/3 din curentul de pornire la conexiunea triunghi.",
+    "de 2 ori curentul de pornire la conexiunea triunghi.",
+    "de 3 ori curentul de pornire la conexiunea triunghi."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 234,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18156",
+   "question": "În cazul producerii unui scurtcircuit într-o instalaţie, are loc următorul fenomen:",
+   "variants": [
+    "crește curentul de alimentare a instalaţiei.",
+    "crește tensiunea de alimentare a instalaţiei.",
+    "crește impedanţa echivalenta a instalaţiei."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 235,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18189",
+   "question": "În cazul punerii nete la pământ a fazei S într-o reţea de 20 kV cu neutrul izolat:",
+   "variants": [
+    "tensiunea pe fazele R și T rămâne neschimbată, iar tensiunea fazei defecte S se apropie de 0.",
+    "cresc tensiunile pe fazele R și T, iar pe faza defectă S rămâne neschimbată.",
+    "tensiunea pe fazele R și T crește la valoarea tensiunii de linie iar pe faza S se apropie de 0."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 236,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18191",
+   "question": "În cazul schemelor cu două sisteme de bare colectoare şi un întreruptor pe circuit, funcţionarea cu ambele sisteme de bare sub tensiune este avantajoasă deoarece permite:",
+   "variants": [
+    "scurtarea duratei manevrelor în caz de ocolire a unui întreruptor.",
+    "micşorarea daunelor de nealimentare a consumatorilor în caz de scurtcircuit pe unul dintre sistemele de bare.",
+    "scurtarea duratei manevrelor în caz de revizie a unuia dintre sistemele de bare colectoare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 237,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18192",
+   "question": "În cazul schemelor cu două sisteme de bare colectoare şi un întreruptor pe circuit, funcţionarea cu unul dintre sistemele de bare în rezervă rece (fără tensiune) este avantajoasă",
+   "variants": [
+    "atunci când se doreşte scurtarea duratei manevrelor în caz de revizie a unuia dintre sistemele de bare colectoare.",
+    "atunci când se doreşte micşorarea daunelor de nealimentare a consumatorilor în caz de scurtcircuit pe unul dintre sistemele de bare.",
+    "numai atunci când se doreşte scurtarea duratei manevrelor în caz de ocolire a unui întreruptor."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 238,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18190",
+   "question": "În cazul scăderii sau întreruperii tensiunii de alimentare, motoarele asincrone se pot opri, iar la restabilirea tensiunii:",
+   "variants": [
+    "pentru a reporni necesită dispozitiv de pornire.",
+    "ele autopornesc numai dacă au rotor în dublă colivie",
+    "ele autopornesc, indiferent de tipul constructiv al rotorului în scurtcircuit."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 239,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18307",
+   "question": "În cazul transformatoarelor de tensiune, care dintre următoarele enunțuri nu este adevărat:",
+   "variants": [
+    "alegerea transformatorului de tensiune presupune verificarea nivelului său de izolație.",
+    "alegerea transformatorului de tensiune presupune verificarea sa la stabilitate electrodinamica în caz de scurtcircuit.",
+    "transformatorul de tensiune trebuie să funcționeze în domeniul de frecvență indicat de fabricant."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 240,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18193",
+   "question": "În cazul unei scheme cu două bare colectoare şi un întreruptor pe circuit este de preferat ca în regim normal de funcţionare:",
+   "variants": [
+    "una dintre barele colectoare să fie sub tensiune, cealaltă bară fiind menţinută în rezervă rece;",
+    "ambele bare colectoare să fie sub tensiune, cupla transversală fiind menţinută în funcţiune;",
+    "ambele bare colectoare să fie menţinute sub tensiune, cupla transversală fiind în rezervă caldă."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 241,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18194",
+   "question": "În cazul unei staţii cu un sistem de bare colectoare secţionat longitudinal şi prevăzut cu o cuplă longitudinală cu întreruptor şi AAR, cupla se menţine:",
+   "variants": [
+    "în funcţiune.",
+    "în rezervă rece.",
+    "în rezervă caldă."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 242,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18185",
+   "question": "În cazul în care echiparea circuitelor electrice de alimentare a motoarelor electrice se face cu siguranţă fuzibilă şi contactor cu relee termice:",
+   "variants": [
+    "releele termice realizează protecţia la supratensiuni.",
+    "releele termice realizează protecţia la suprasarcină;",
+    "releele termice realizează protecţia la scurtcircuit;"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 243,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18186",
+   "question": "În cazul în care rezultanta unui sistem de fazori (de tensiune sau de curent) este nulă:",
+   "variants": [
+    "sistemul nu are componentă simetrică directă (pozitivă).",
+    "sistemul nu are componentă simetrică homopolară (zero).",
+    "sistemul nu are componentă simetrică inversă (negativă)."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 244,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18195",
+   "question": "În echipamentul electric, uleiul electroizolant, din punct de vedere electric:",
+   "variants": [
+    "asigură ungerea mecanismelor de acţionare.",
+    "stinge arcul electric care apare în întrerupătoare.",
+    "asigură doar izolarea părților sub tensiune între ele si fatã de masă."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 245,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18175",
+   "question": "În instalaţiile de joasă tensiune, legarea la pământ este justificată:",
+   "variants": [
+    "pentru securitatea muncii.",
+    "din motive economice.",
+    "pentru diminuarea suprasolicitărilor echipamentelor electrice."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 246,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18183",
+   "question": "În posturi de transformare se folosesc transformatoare răcite cu lichide neinflamabile atunci când:",
+   "variants": [
+    "amplasarea postului se face în zone aglomerate.",
+    "sunt restricţii de toxicitate pentru personalul de exploatare;",
+    "sunt restricţii de poluare a mediului."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 247,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18198",
+   "question": "În posturi de transformare se folosesc transformatoare uscate atunci când:",
+   "variants": [
+    "amplasarea postului se face în zone aglomerate.",
+    "nu sunt restricţii de teren.",
+    "nu este posibilă asigurarea unei răciri corespunzătoare a bobinajelor."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 248,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18188",
+   "question": "În posturi de transformare se preferă folosirea transformatoarelor răcite cu aer atunci când:",
+   "variants": [
+    "sunt restricţii de teren.",
+    "sunt restricţii privitoare la zgomot.",
+    "amplasarea postului se face în zone aglomerate."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 249,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18200",
+   "question": "În sens general, actualizarea unui fond reprezintă:",
+   "variants": [
+    "calculul valorii acestui fond la N ani înainte de PIF;",
+    "calculul valorii acestui fond la N ani după PIF.",
+    "calculul valorii acestui fond la un anumit an ales ca referinţă;"
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 250,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18203",
+   "question": "În tubul de porţelan al unei siguranţe de înalta tensiune, nisipul:",
+   "variants": [
+    "de a menţine temperatura constanta a siguranţei.",
+    "are rolul de a mari puterea de rupere a siguranţei.",
+    "are numai rolul de a consolida elementele fuzibile."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 251,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18209",
+   "question": "Într-o reţea cu neutrul legat la pământ, valoarea cea mai mare a intensităţii curentului de scurtcircuit, pentru acelaşi punct de defect, corespunde, de regulă, defectului:",
+   "variants": [
+    "trifazat.",
+    "bifazat.",
+    "monofazat."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 252,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18196",
+   "question": "Într-o schemă cu 1,5 întreruptoare pe circuit:",
+   "variants": [
+    "nu sunt necesare circuite de cuplă transversală şi de ocolire.",
+    "este necesară o cuplă transversală.",
+    "este necesară o cuplă de ocolire."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 253,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18197",
+   "question": "Într-o schemă de conexiuni bara şi cupla de ocolire servesc la:",
+   "variants": [
+    "scoaterea în revizie a unui întreruptor, fără întreruperea alimentării pe circuitul respectiv.",
+    "scoaterea în revizie a unui întreruptor, cu două scurte întreruperi;",
+    "scoaterea în revizie a unei bare colectoare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 254,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18212",
+   "question": "Într-o schemă electrică având un sistem de bare colectoare, separatorul asigură:",
+   "variants": [
+    "izolarea unei părţi din instalaţie de altă parte a instalaţiei aflată sub tensiune;",
+    "deconectarea unor curenţi de suprasarcină.",
+    "comutaţia curentului în regim normal de funcţionare."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 255,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18213",
+   "question": "Într-o schemă electrică prevăzută cu mai multe sisteme de bare colectoare, separatorul de bare",
+   "variants": [
+    "asigură doar selectarea sistemului de bare pe care urmează a fi conectat circuitul;",
+    "asigură izolarea unei părţi a circuitului de bara colectoare aflată sub tensiune;",
+    "comutaţia curentului în regim normal de funcţionare."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 256,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18199",
+   "question": "Într-o schemă poligon cu patru laturi:",
+   "variants": [
+    "este necesară o cuplă de ocolire.",
+    "este necesară o cuplă transversală.",
+    "nu este necesară o cuplă transversală."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 257,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18217",
+   "question": "Într-o staţie cu două sisteme de bare colectoare, cupla transversală:",
+   "variants": [
+    "nu se poate utiliza pentru ocolirea unui întreruptor de linie pe durata unei revizii sau reparaţii;",
+    "se poate utiliza pentru cuplarea în paralel a celor două sisteme de bare colectoare care sunt sub tensiune;",
+    "nu se poate utiliza pentru verificarea stării izolaţiei unui sistem de bare colectoare, care până în momentul respectiv a fost scos de sub tensiune."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 258,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18211",
+   "question": "Într-un circuit R-L serie de curent alternativ, tensiunea la bornele rezistorului este de 100 V, iar tensiunea la bornele bobinei este de 70 V. Tensiunea la bornele circuitului R-L este:",
+   "variants": [
+    "30 V.",
+    "122 V.",
+    "170V."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 259,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18218",
+   "question": "Într-un circuit de curent alternativ în care puterea activa absorbita este 4 kW iar puterea reactiva este de 3 kVAr, factorul de putere este:",
+   "variants": [
+    "0,75",
+    "0,8",
+    "4/3"
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 260,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18219",
+   "question": "Într-un circuit electric monofazat cu caracter inductiv tensiunea este defazată față de curent:",
+   "variants": [
+    "cu 90 de grade în urmă.",
+    "cu zero grade (sunt în fază).",
+    "înainte cu 90 de grade."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 261,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18210",
+   "question": "Într-un circuit format dintr-un rezistor de rezistenta R în serie cu o bobina de inductanța L, în momentul alimentarii de o sursa de curent continuu cu tensiune U:",
+   "variants": [
+    "curentul nu circulă prin acest circuit.",
+    "curentul ajunge la valoarea U/R după un timp.",
+    "curentul crește instantaneu la valoarea U/R."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 262,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18221",
+   "question": "Într-un circuit rezistiv, având rezistenta R=5 ohm si la bornele căruia se aplica o tensiune de 100 V, curentul este de:",
+   "variants": [
+    "500 A.",
+    "20 A.",
+    "95 A."
+   ],
+   "correct": "b",
+   "explanation": ""
+  },
+  {
+   "id": 263,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18223",
+   "question": "Într-un circuit serie format dintr-un rezistor de rezistenţă R, o bobină de inductanţă L şi un condensator de capacitate C, curentul din circuit este defazat în urma tensiunii la borne dacă:",
+   "variants": [
+    "reactanţa totală a circuitului este = 0.",
+    "reactanţa totală a circuitului X este < 0.",
+    "reactanţa totală a circuitului X este > 0."
+   ],
+   "correct": "c",
+   "explanation": ""
+  },
+  {
+   "id": 264,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18214",
+   "question": "Într-un conductor curentul alternativ are densitatea:",
+   "variants": [
+    "mai mare la periferia conductorului.",
+    "mai mare în centrul conductorului.",
+    "uniformă."
+   ],
+   "correct": "a",
+   "explanation": ""
+  },
+  {
+   "id": 265,
+   "category": "electrotehnica",
+   "grade": "general",
+   "source": "chestionare-anre.ro",
+   "source_url": "https://chestionare-anre.ro/electrotehnica-mediu-invatare/",
+   "site_qid": "18261",
+   "question": "Între două noduri oarecare A şi B ale unei reţele electrice active, o sursă de tensiune de forţă electromotoare E şi fără impedanţă interioară, dar legată în serie cu o impedanţă Z, poate fi înlocuită cu o sursă de curent, de intensitate J şi fără admitanţă interioară, şuntată cu admitanţa Y, fără ca parametrii electrici la bornele A şi B - tensiunea la borne şi curentul debitat prin aceste borne- să se schimbe, dacă sunt îndeplinite condiţiile:",
+   "variants": [
+    "Z Y = 1 J=YE",
+    "J=YE Z=Y",
+    "Z Y = 1 Z=Y"
+   ],
+   "correct": "a",
+   "explanation": ""
+  }
+ ]
+}
